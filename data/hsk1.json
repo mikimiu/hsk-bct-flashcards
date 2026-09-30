@@ -1,0 +1,3112 @@
+[
+  {
+    "id": "hsk1-0001",
+    "simplified": "爱",
+    "traditional": "愛",
+    "pinyin": "ài",
+    "meaning": "like, love",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0002",
+    "simplified": "八",
+    "traditional": "八",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0003",
+    "simplified": "爸爸",
+    "traditional": "爸爸",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0004",
+    "simplified": "吧",
+    "traditional": "吧",
+    "pinyin": "ba",
+    "meaning": "(modal particle)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0005",
+    "simplified": "白天",
+    "traditional": "白天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0006",
+    "simplified": "百",
+    "traditional": "百",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0007",
+    "simplified": "半",
+    "traditional": "半",
+    "pinyin": "bàn",
+    "meaning": "half",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0008",
+    "simplified": "包子",
+    "traditional": "包子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0009",
+    "simplified": "杯子",
+    "traditional": "杯子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0010",
+    "simplified": "本",
+    "traditional": "本",
+    "pinyin": "běn",
+    "meaning": "(measure word)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0011",
+    "simplified": "边",
+    "traditional": "邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0012",
+    "simplified": "病",
+    "traditional": "病",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0013",
+    "simplified": "不",
+    "traditional": "不",
+    "pinyin": "bù",
+    "meaning": "No",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0014",
+    "simplified": "不客气",
+    "traditional": "不客氣",
+    "pinyin": "bù kè qì",
+    "meaning": "You're welcome",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0015",
+    "simplified": "不要",
+    "traditional": "不要",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0016",
+    "simplified": "菜",
+    "traditional": "菜",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0017",
+    "simplified": "茶",
+    "traditional": "茶",
+    "pinyin": "chá",
+    "meaning": "tea",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0018",
+    "simplified": "唱",
+    "traditional": "唱",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0019",
+    "simplified": "超市",
+    "traditional": "超市",
+    "pinyin": "chāo shì",
+    "meaning": "supermarket",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0020",
+    "simplified": "车",
+    "traditional": "車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0021",
+    "simplified": "吃",
+    "traditional": "吃",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0022",
+    "simplified": "出租车",
+    "traditional": "出租車",
+    "pinyin": "chū zū chē",
+    "meaning": "taxi",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0023",
+    "simplified": "穿",
+    "traditional": "穿",
+    "pinyin": "chuān",
+    "meaning": "wear",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0024",
+    "simplified": "打电话",
+    "traditional": "打電話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0025",
+    "simplified": "大",
+    "traditional": "大",
+    "pinyin": "dà",
+    "meaning": "big",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0026",
+    "simplified": "大家",
+    "traditional": "大家",
+    "pinyin": "dà jiā",
+    "meaning": "everyone",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0027",
+    "simplified": "大学",
+    "traditional": "大學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0028",
+    "simplified": "大学生",
+    "traditional": "大學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0029",
+    "simplified": "到",
+    "traditional": "到",
+    "pinyin": "dào",
+    "meaning": "arrive",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0030",
+    "simplified": "的",
+    "traditional": "的",
+    "pinyin": "de",
+    "meaning": "(particle)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0031",
+    "simplified": "第",
+    "traditional": "第",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0032",
+    "simplified": "弟弟",
+    "traditional": "弟弟",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0033",
+    "simplified": "点",
+    "traditional": "點",
+    "pinyin": "diǎn",
+    "meaning": "point",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0034",
+    "simplified": "店",
+    "traditional": "店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0035",
+    "simplified": "电话",
+    "traditional": "電話",
+    "pinyin": "diàn huà",
+    "meaning": "telephone",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0036",
+    "simplified": "电脑",
+    "traditional": "電腦",
+    "pinyin": "diàn nǎo",
+    "meaning": "computer",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0037",
+    "simplified": "电视",
+    "traditional": "電視",
+    "pinyin": "diàn shì",
+    "meaning": "television",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0038",
+    "simplified": "电影",
+    "traditional": "電影",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0039",
+    "simplified": "电影院",
+    "traditional": "電影院",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0040",
+    "simplified": "东西",
+    "traditional": "東西",
+    "pinyin": "dōng xi",
+    "meaning": "thing",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0041",
+    "simplified": "都",
+    "traditional": "都",
+    "pinyin": "dōu",
+    "meaning": "all",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0042",
+    "simplified": "读",
+    "traditional": "讀",
+    "pinyin": "dú",
+    "meaning": "read",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0043",
+    "simplified": "读书",
+    "traditional": "讀書",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0044",
+    "simplified": "对",
+    "traditional": "對",
+    "pinyin": "duì",
+    "meaning": "right",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0045",
+    "simplified": "对不起",
+    "traditional": "對不起",
+    "pinyin": "duì bù qǐ",
+    "meaning": "sorry",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0046",
+    "simplified": "多",
+    "traditional": "多",
+    "pinyin": "duō",
+    "meaning": "many",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0047",
+    "simplified": "多少",
+    "traditional": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "How many",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0048",
+    "simplified": "儿子",
+    "traditional": "兒子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0049",
+    "simplified": "二",
+    "traditional": "二",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0050",
+    "simplified": "饭",
+    "traditional": "飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0051",
+    "simplified": "饭店",
+    "traditional": "飯店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0052",
+    "simplified": "房间",
+    "traditional": "房間",
+    "pinyin": "fáng jiān",
+    "meaning": "room",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0053",
+    "simplified": "非常",
+    "traditional": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "very",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0054",
+    "simplified": "飞机",
+    "traditional": "飛機",
+    "pinyin": "fēi jī",
+    "meaning": "airplane",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0055",
+    "simplified": "分",
+    "traditional": "分",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0056",
+    "simplified": "分钟",
+    "traditional": "分鐘",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0057",
+    "simplified": "高兴",
+    "traditional": "高興",
+    "pinyin": "gāo xìng",
+    "meaning": "happy",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0058",
+    "simplified": "歌",
+    "traditional": "歌",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0059",
+    "simplified": "哥哥",
+    "traditional": "哥哥",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0060",
+    "simplified": "个",
+    "traditional": "個",
+    "pinyin": "gè",
+    "meaning": "(measure word)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0061",
+    "simplified": "给",
+    "traditional": "給",
+    "pinyin": "gěi",
+    "meaning": "give",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0062",
+    "simplified": "公司",
+    "traditional": "公司",
+    "pinyin": "gōng sī",
+    "meaning": "company",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0063",
+    "simplified": "工作",
+    "traditional": "工作",
+    "pinyin": "gōng zuò",
+    "meaning": "work",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0064",
+    "simplified": "狗",
+    "traditional": "狗",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0065",
+    "simplified": "贵",
+    "traditional": "貴",
+    "pinyin": "guì",
+    "meaning": "expensive",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0066",
+    "simplified": "国",
+    "traditional": "國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0067",
+    "simplified": "还",
+    "traditional": "還",
+    "pinyin": "hái",
+    "meaning": "still",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0068",
+    "simplified": "孩子",
+    "traditional": "孩子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0069",
+    "simplified": "汉语",
+    "traditional": "漢語",
+    "pinyin": "hàn yǔ",
+    "meaning": "Chinese",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0070",
+    "simplified": "汉字",
+    "traditional": "漢字",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0071",
+    "simplified": "好",
+    "traditional": "好",
+    "pinyin": "hǎo",
+    "meaning": "good",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0072",
+    "simplified": "好吃",
+    "traditional": "好吃",
+    "pinyin": "hǎo chī",
+    "meaning": "tasty",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0073",
+    "simplified": "好看",
+    "traditional": "好看",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0074",
+    "simplified": "好听",
+    "traditional": "好聽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0075",
+    "simplified": "好玩儿",
+    "traditional": "好玩兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0076",
+    "simplified": "号",
+    "traditional": "號",
+    "pinyin": "hào",
+    "meaning": "number",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0077",
+    "simplified": "喝",
+    "traditional": "喝",
+    "pinyin": "hē",
+    "meaning": "drink",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0078",
+    "simplified": "和",
+    "traditional": "和",
+    "pinyin": "hé",
+    "meaning": "and",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0079",
+    "simplified": "很",
+    "traditional": "很",
+    "pinyin": "hěn",
+    "meaning": "very",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0080",
+    "simplified": "后",
+    "traditional": "后",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0081",
+    "simplified": "回",
+    "traditional": "回",
+    "pinyin": "huí",
+    "meaning": "return",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0082",
+    "simplified": "会",
+    "traditional": "會",
+    "pinyin": "huì",
+    "meaning": "would",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0083",
+    "simplified": "火车",
+    "traditional": "火車",
+    "pinyin": "huǒ chē",
+    "meaning": "train",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0084",
+    "simplified": "鸡蛋",
+    "traditional": "雞蛋",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0085",
+    "simplified": "几",
+    "traditional": "幾",
+    "pinyin": "jǐ",
+    "meaning": "several",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0086",
+    "simplified": "家",
+    "traditional": "家",
+    "pinyin": "jiā",
+    "meaning": "home",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0087",
+    "simplified": "家人",
+    "traditional": "家人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0088",
+    "simplified": "见",
+    "traditional": "見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0089",
+    "simplified": "件",
+    "traditional": "件",
+    "pinyin": "jiàn",
+    "meaning": "(measure word)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0090",
+    "simplified": "饺子",
+    "traditional": "餃子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0091",
+    "simplified": "叫",
+    "traditional": "叫",
+    "pinyin": "jiào",
+    "meaning": "call",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0092",
+    "simplified": "姐姐",
+    "traditional": "姐姐",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0093",
+    "simplified": "今年",
+    "traditional": "今年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0094",
+    "simplified": "今天",
+    "traditional": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "today",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0095",
+    "simplified": "九",
+    "traditional": "九",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0096",
+    "simplified": "觉得",
+    "traditional": "覺得",
+    "pinyin": "jué de",
+    "meaning": "feel",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0097",
+    "simplified": "开",
+    "traditional": "開",
+    "pinyin": "kāi",
+    "meaning": "open",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0098",
+    "simplified": "开车",
+    "traditional": "開車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0099",
+    "simplified": "看",
+    "traditional": "看",
+    "pinyin": "kàn",
+    "meaning": "look",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0100",
+    "simplified": "看病",
+    "traditional": "看病",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0101",
+    "simplified": "看见",
+    "traditional": "看見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0102",
+    "simplified": "可以",
+    "traditional": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "can",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0103",
+    "simplified": "课",
+    "traditional": "課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0104",
+    "simplified": "口",
+    "traditional": "口",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0105",
+    "simplified": "块",
+    "traditional": "塊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0106",
+    "simplified": "来",
+    "traditional": "來",
+    "pinyin": "lái",
+    "meaning": "come",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0107",
+    "simplified": "老师",
+    "traditional": "老師",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0108",
+    "simplified": "了",
+    "traditional": "了",
+    "pinyin": "le",
+    "meaning": "(particle)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0109",
+    "simplified": "冷",
+    "traditional": "冷",
+    "pinyin": "lěng",
+    "meaning": "cold",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0110",
+    "simplified": "里",
+    "traditional": "里",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0111",
+    "simplified": "两",
+    "traditional": "兩",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0112",
+    "simplified": "零",
+    "traditional": "零",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0113",
+    "simplified": "六",
+    "traditional": "六",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0114",
+    "simplified": "妈妈",
+    "traditional": "媽媽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0115",
+    "simplified": "吗",
+    "traditional": "嗎",
+    "pinyin": "ma",
+    "meaning": "(yes-no question mark)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0116",
+    "simplified": "买",
+    "traditional": "買",
+    "pinyin": "mǎi",
+    "meaning": "purchase",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0117",
+    "simplified": "卖",
+    "traditional": "賣",
+    "pinyin": "mài",
+    "meaning": "sell",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0118",
+    "simplified": "忙",
+    "traditional": "忙",
+    "pinyin": "máng",
+    "meaning": "busy",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0119",
+    "simplified": "猫",
+    "traditional": "貓",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0120",
+    "simplified": "没关系",
+    "traditional": "沒關係",
+    "pinyin": "méi guān xì",
+    "meaning": "It doesn't matter",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0121",
+    "simplified": "没事",
+    "traditional": "沒事",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0122",
+    "simplified": "没有",
+    "traditional": "沒有",
+    "pinyin": "méi yǒu",
+    "meaning": "not, no",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0123",
+    "simplified": "妹妹",
+    "traditional": "妹妹",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0124",
+    "simplified": "们",
+    "traditional": "們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0125",
+    "simplified": "米饭",
+    "traditional": "米飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0126",
+    "simplified": "面包",
+    "traditional": "麵包",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0127",
+    "simplified": "面条儿",
+    "traditional": "麵條兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0128",
+    "simplified": "明年",
+    "traditional": "明年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0129",
+    "simplified": "明天",
+    "traditional": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "tomorrow",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0130",
+    "simplified": "名字",
+    "traditional": "名字",
+    "pinyin": "míng zì",
+    "meaning": "name",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0131",
+    "simplified": "哪",
+    "traditional": "哪",
+    "pinyin": "nǎ （ nǎ ér ）",
+    "meaning": "which (where)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0132",
+    "simplified": "哪个",
+    "traditional": "哪個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0133",
+    "simplified": "哪里",
+    "traditional": "哪裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0134",
+    "simplified": "哪儿",
+    "traditional": "哪兒",
+    "pinyin": "nǎ （ nǎ ér ）",
+    "meaning": "which (where)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0135",
+    "simplified": "哪些",
+    "traditional": "哪些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0136",
+    "simplified": "那",
+    "traditional": "那",
+    "pinyin": "nà （ nà ér ）",
+    "meaning": "that (there)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0137",
+    "simplified": "那边",
+    "traditional": "那邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0138",
+    "simplified": "那个",
+    "traditional": "那個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0139",
+    "simplified": "那里",
+    "traditional": "那裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0140",
+    "simplified": "那儿",
+    "traditional": "那兒",
+    "pinyin": "nà （ nà ér ）",
+    "meaning": "that (there)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0141",
+    "simplified": "那些",
+    "traditional": "那些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0142",
+    "simplified": "男",
+    "traditional": "男",
+    "pinyin": "nán",
+    "meaning": "male",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0143",
+    "simplified": "男朋友",
+    "traditional": "男朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0144",
+    "simplified": "呢",
+    "traditional": "呢",
+    "pinyin": "ne",
+    "meaning": "(particle)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0145",
+    "simplified": "能",
+    "traditional": "能",
+    "pinyin": "néng",
+    "meaning": "able",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0146",
+    "simplified": "你",
+    "traditional": "你",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0147",
+    "simplified": "你好",
+    "traditional": "你好",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0148",
+    "simplified": "你们",
+    "traditional": "你們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0149",
+    "simplified": "年",
+    "traditional": "年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0150",
+    "simplified": "您",
+    "traditional": "您",
+    "pinyin": "nín",
+    "meaning": "you (polite way)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0151",
+    "simplified": "牛奶",
+    "traditional": "牛奶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0152",
+    "simplified": "女",
+    "traditional": "女",
+    "pinyin": "nǚ",
+    "meaning": "female",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0153",
+    "simplified": "女儿",
+    "traditional": "女兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0154",
+    "simplified": "女朋友",
+    "traditional": "女朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0155",
+    "simplified": "女士",
+    "traditional": "女士",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0156",
+    "simplified": "朋友",
+    "traditional": "朋友",
+    "pinyin": "péng yǒu",
+    "meaning": "friend",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0157",
+    "simplified": "便宜",
+    "traditional": "便宜",
+    "pinyin": "pián yi",
+    "meaning": "cheap",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0158",
+    "simplified": "漂亮",
+    "traditional": "漂亮",
+    "pinyin": "piào liàng",
+    "meaning": "pretty",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0159",
+    "simplified": "苹果",
+    "traditional": "蘋果",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0160",
+    "simplified": "七",
+    "traditional": "七",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0161",
+    "simplified": "起床",
+    "traditional": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning": "get up",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0162",
+    "simplified": "千",
+    "traditional": "千",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0163",
+    "simplified": "前",
+    "traditional": "前",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0164",
+    "simplified": "钱",
+    "traditional": "錢",
+    "pinyin": "qián",
+    "meaning": "money",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0165",
+    "simplified": "请",
+    "traditional": "請",
+    "pinyin": "qǐng",
+    "meaning": "please",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0166",
+    "simplified": "请问",
+    "traditional": "請問",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0167",
+    "simplified": "去",
+    "traditional": "去",
+    "pinyin": "qù",
+    "meaning": "go",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0168",
+    "simplified": "去年",
+    "traditional": "去年",
+    "pinyin": "qù nián",
+    "meaning": "last year",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0169",
+    "simplified": "热",
+    "traditional": "熱",
+    "pinyin": "rè",
+    "meaning": "hot",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0170",
+    "simplified": "人",
+    "traditional": "人",
+    "pinyin": "rén",
+    "meaning": "people",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0171",
+    "simplified": "认识",
+    "traditional": "認識",
+    "pinyin": "rèn shi",
+    "meaning": "know",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0172",
+    "simplified": "日",
+    "traditional": "日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0173",
+    "simplified": "三",
+    "traditional": "三",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0174",
+    "simplified": "商店",
+    "traditional": "商店",
+    "pinyin": "shāng diàn",
+    "meaning": "shop",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0175",
+    "simplified": "上",
+    "traditional": "上",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0176",
+    "simplified": "上班",
+    "traditional": "上班",
+    "pinyin": "shàng bān",
+    "meaning": "work",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0177",
+    "simplified": "上课",
+    "traditional": "上課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0178",
+    "simplified": "上午",
+    "traditional": "上午",
+    "pinyin": "shàng wǔ",
+    "meaning": "morning",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0179",
+    "simplified": "上学",
+    "traditional": "上學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0180",
+    "simplified": "少",
+    "traditional": "少",
+    "pinyin": "shǎo",
+    "meaning": "few",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0181",
+    "simplified": "谁",
+    "traditional": "誰",
+    "pinyin": "shuí/shéi",
+    "meaning": "who",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0182",
+    "simplified": "什么",
+    "traditional": "什麼",
+    "pinyin": "shén me",
+    "meaning": "what",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0183",
+    "simplified": "生病",
+    "traditional": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "get ill",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0184",
+    "simplified": "十",
+    "traditional": "十",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0185",
+    "simplified": "时候",
+    "traditional": "時候",
+    "pinyin": "shí hòu",
+    "meaning": "when",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0186",
+    "simplified": "时间",
+    "traditional": "時間",
+    "pinyin": "shí jiān",
+    "meaning": "time",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0187",
+    "simplified": "事",
+    "traditional": "事",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0188",
+    "simplified": "是",
+    "traditional": "是",
+    "pinyin": "shì",
+    "meaning": "yes",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0189",
+    "simplified": "手机",
+    "traditional": "手機",
+    "pinyin": "shǒu jī",
+    "meaning": "cell phone",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0190",
+    "simplified": "书",
+    "traditional": "書",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0191",
+    "simplified": "书店",
+    "traditional": "書店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0192",
+    "simplified": "水",
+    "traditional": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0193",
+    "simplified": "水果",
+    "traditional": "水果",
+    "pinyin": "shuǐ guǒ",
+    "meaning": "fruit",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0194",
+    "simplified": "睡",
+    "traditional": "睡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0195",
+    "simplified": "睡觉",
+    "traditional": "睡覺",
+    "pinyin": "shuì jiào",
+    "meaning": "sleep",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0196",
+    "simplified": "说",
+    "traditional": "說",
+    "pinyin": "shuō",
+    "meaning": "explain",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0197",
+    "simplified": "说话",
+    "traditional": "說話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0198",
+    "simplified": "四",
+    "traditional": "四",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0199",
+    "simplified": "岁",
+    "traditional": "歲",
+    "pinyin": "suì",
+    "meaning": "age",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0200",
+    "simplified": "他",
+    "traditional": "他",
+    "pinyin": "tā (tā men)",
+    "meaning": "him (them)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0201",
+    "simplified": "它",
+    "traditional": "它",
+    "pinyin": "tā",
+    "meaning": "it",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0202",
+    "simplified": "她",
+    "traditional": "她",
+    "pinyin": "tā",
+    "meaning": "she",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0203",
+    "simplified": "他们",
+    "traditional": "他們",
+    "pinyin": "tā (tā men)",
+    "meaning": "him (them)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0204",
+    "simplified": "它们",
+    "traditional": "它們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0205",
+    "simplified": "她们",
+    "traditional": "她們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0206",
+    "simplified": "太",
+    "traditional": "太",
+    "pinyin": "tài",
+    "meaning": "too",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0207",
+    "simplified": "天",
+    "traditional": "天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0208",
+    "simplified": "天气",
+    "traditional": "天氣",
+    "pinyin": "tiān qì",
+    "meaning": "weather",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0209",
+    "simplified": "听",
+    "traditional": "聽",
+    "pinyin": "tīng",
+    "meaning": "listen",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0210",
+    "simplified": "听见",
+    "traditional": "聽見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0211",
+    "simplified": "同学",
+    "traditional": "同學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0212",
+    "simplified": "外",
+    "traditional": "外",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0213",
+    "simplified": "外边",
+    "traditional": "外邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0214",
+    "simplified": "玩",
+    "traditional": "玩",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0215",
+    "simplified": "晚",
+    "traditional": "晚",
+    "pinyin": "wǎn",
+    "meaning": "night",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0216",
+    "simplified": "晚饭",
+    "traditional": "晚飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0217",
+    "simplified": "晚上",
+    "traditional": "晚上",
+    "pinyin": "wǎn shàng",
+    "meaning": "night",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0218",
+    "simplified": "喂",
+    "traditional": "喂",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0219",
+    "simplified": "问",
+    "traditional": "問",
+    "pinyin": "wèn",
+    "meaning": "ask",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0220",
+    "simplified": "问题",
+    "traditional": "問題",
+    "pinyin": "wèn tí",
+    "meaning": "question",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0221",
+    "simplified": "我",
+    "traditional": "我",
+    "pinyin": "wǒ (wǒ men )",
+    "meaning": "I(we)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0222",
+    "simplified": "我们",
+    "traditional": "我們",
+    "pinyin": "wǒ (wǒ men )",
+    "meaning": "I(we)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0223",
+    "simplified": "五",
+    "traditional": "五",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0224",
+    "simplified": "午饭",
+    "traditional": "午飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0225",
+    "simplified": "喜欢",
+    "traditional": "喜歡",
+    "pinyin": "xǐ huān",
+    "meaning": "like",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0226",
+    "simplified": "下",
+    "traditional": "下",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0227",
+    "simplified": "下班",
+    "traditional": "下班",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0228",
+    "simplified": "下课",
+    "traditional": "下課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0229",
+    "simplified": "下午",
+    "traditional": "下午",
+    "pinyin": "xià wǔ",
+    "meaning": "afternoon",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0230",
+    "simplified": "下雨",
+    "traditional": "下雨",
+    "pinyin": "xià yǔ",
+    "meaning": "rain",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0231",
+    "simplified": "先生",
+    "traditional": "先生",
+    "pinyin": "xiān shēng",
+    "meaning": "gentlemen",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0232",
+    "simplified": "现在",
+    "traditional": "現在",
+    "pinyin": "xiàn zài",
+    "meaning": "now",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0233",
+    "simplified": "想",
+    "traditional": "想",
+    "pinyin": "xiǎng",
+    "meaning": "think",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0234",
+    "simplified": "小",
+    "traditional": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0235",
+    "simplified": "小朋友",
+    "traditional": "小朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0236",
+    "simplified": "小时",
+    "traditional": "小時",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0237",
+    "simplified": "小学",
+    "traditional": "小學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0238",
+    "simplified": "小学生",
+    "traditional": "小學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0239",
+    "simplified": "些",
+    "traditional": "些",
+    "pinyin": "xiē",
+    "meaning": "some",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0240",
+    "simplified": "写",
+    "traditional": "寫",
+    "pinyin": "xiě",
+    "meaning": "write",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0241",
+    "simplified": "谢谢",
+    "traditional": "謝謝",
+    "pinyin": "xiè xie",
+    "meaning": "Thanks",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0242",
+    "simplified": "新",
+    "traditional": "新",
+    "pinyin": "xīn",
+    "meaning": "new",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0243",
+    "simplified": "星期",
+    "traditional": "星期",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0244",
+    "simplified": "星期日",
+    "traditional": "星期日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0245",
+    "simplified": "星期天",
+    "traditional": "星期天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0246",
+    "simplified": "休息",
+    "traditional": "休息",
+    "pinyin": "xiū xi",
+    "meaning": "rest",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0247",
+    "simplified": "学",
+    "traditional": "學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0248",
+    "simplified": "学生",
+    "traditional": "學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0249",
+    "simplified": "学习",
+    "traditional": "學習",
+    "pinyin": "xué xí",
+    "meaning": "study",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0250",
+    "simplified": "学校",
+    "traditional": "學校",
+    "pinyin": "xué xiào",
+    "meaning": "school",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0251",
+    "simplified": "雪",
+    "traditional": "雪",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0252",
+    "simplified": "要",
+    "traditional": "要",
+    "pinyin": "yào",
+    "meaning": "want",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0253",
+    "simplified": "也",
+    "traditional": "也",
+    "pinyin": "yě",
+    "meaning": "also",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0254",
+    "simplified": "一",
+    "traditional": "一",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0255",
+    "simplified": "衣服",
+    "traditional": "衣服",
+    "pinyin": "yī fu",
+    "meaning": "clothing",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0256",
+    "simplified": "医生",
+    "traditional": "醫生",
+    "pinyin": "yī shēng",
+    "meaning": "doctor",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0257",
+    "simplified": "医院",
+    "traditional": "醫院",
+    "pinyin": "yī yuàn",
+    "meaning": "hospital",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0258",
+    "simplified": "一半",
+    "traditional": "一半",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0259",
+    "simplified": "一下",
+    "traditional": "一下",
+    "pinyin": "yī xià",
+    "meaning": "one time",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0260",
+    "simplified": "椅子",
+    "traditional": "椅子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0261",
+    "simplified": "一点儿",
+    "traditional": "一點兒",
+    "pinyin": "yī diǎnr",
+    "meaning": "a little",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0262",
+    "simplified": "一些",
+    "traditional": "一些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0263",
+    "simplified": "有",
+    "traditional": "有",
+    "pinyin": "yǒu",
+    "meaning": "have",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0264",
+    "simplified": "有的",
+    "traditional": "有的",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0265",
+    "simplified": "有点儿",
+    "traditional": "有點兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0266",
+    "simplified": "有些",
+    "traditional": "有些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0267",
+    "simplified": "雨",
+    "traditional": "雨",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0268",
+    "simplified": "元",
+    "traditional": "元",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0269",
+    "simplified": "月",
+    "traditional": "月",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0270",
+    "simplified": "再",
+    "traditional": "再",
+    "pinyin": "zài",
+    "meaning": "Again",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0271",
+    "simplified": "在",
+    "traditional": "在",
+    "pinyin": "zài",
+    "meaning": "exist",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0272",
+    "simplified": "再见",
+    "traditional": "再見",
+    "pinyin": "zài jiàn",
+    "meaning": "goodbye",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0273",
+    "simplified": "早",
+    "traditional": "早",
+    "pinyin": "zǎo",
+    "meaning": "morning",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0274",
+    "simplified": "早饭",
+    "traditional": "早飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0275",
+    "simplified": "早上",
+    "traditional": "早上",
+    "pinyin": "zǎo shàng",
+    "meaning": "morning",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0276",
+    "simplified": "怎么",
+    "traditional": "怎麼",
+    "pinyin": "zěn me",
+    "meaning": "how",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0277",
+    "simplified": "怎么样",
+    "traditional": "怎麼樣",
+    "pinyin": "zěn me yàng",
+    "meaning": "How about it",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0278",
+    "simplified": "找",
+    "traditional": "找",
+    "pinyin": "zhǎo",
+    "meaning": "try to find",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0279",
+    "simplified": "这",
+    "traditional": "這",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0280",
+    "simplified": "这边",
+    "traditional": "這邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0281",
+    "simplified": "这个",
+    "traditional": "這個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0282",
+    "simplified": "这里",
+    "traditional": "這裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0283",
+    "simplified": "这儿",
+    "traditional": "這兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0284",
+    "simplified": "这些",
+    "traditional": "這些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0285",
+    "simplified": "真",
+    "traditional": "真",
+    "pinyin": "zhēn",
+    "meaning": "real",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0286",
+    "simplified": "正在",
+    "traditional": "正在",
+    "pinyin": "zhèng zài",
+    "meaning": "(in the process of doing",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0287",
+    "simplified": "只",
+    "traditional": "只",
+    "pinyin": "zhǐ",
+    "meaning": "only",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0288",
+    "simplified": "知道",
+    "traditional": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "know",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0289",
+    "simplified": "中国",
+    "traditional": "中國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0290",
+    "simplified": "中文",
+    "traditional": "中文",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0291",
+    "simplified": "中午",
+    "traditional": "中午",
+    "pinyin": "zhōng wǔ",
+    "meaning": "noon",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0292",
+    "simplified": "中学",
+    "traditional": "中學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0293",
+    "simplified": "中学生",
+    "traditional": "中學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0294",
+    "simplified": "住",
+    "traditional": "住",
+    "pinyin": "zhù",
+    "meaning": "live",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0295",
+    "simplified": "桌子",
+    "traditional": "桌子",
+    "pinyin": "zhuō zi",
+    "meaning": "table",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0296",
+    "simplified": "字",
+    "traditional": "字",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0297",
+    "simplified": "昨天",
+    "traditional": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "yesterday",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0298",
+    "simplified": "坐",
+    "traditional": "坐",
+    "pinyin": "zuò",
+    "meaning": "sit",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0299",
+    "simplified": "做",
+    "traditional": "做",
+    "pinyin": "zuò",
+    "meaning": "do",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0300",
+    "simplified": "做饭",
+    "traditional": "做飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0301",
+    "simplified": "没",
+    "traditional": "沒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0302",
+    "simplified": "病人",
+    "traditional": "病人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0303",
+    "simplified": "前边",
+    "traditional": "前邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0304",
+    "simplified": "售货员",
+    "traditional": "售貨員",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0305",
+    "simplified": "斤",
+    "traditional": "斤",
+    "pinyin": "jīn",
+    "meaning": "(measure word)",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0306",
+    "simplified": "医",
+    "traditional": "醫",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0307",
+    "simplified": "药",
+    "traditional": "藥",
+    "pinyin": "yào",
+    "meaning": "medicine",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0308",
+    "simplified": "服务员",
+    "traditional": "服務員",
+    "pinyin": "fú wù yuán",
+    "meaning": "waiter",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0309",
+    "simplified": "杯",
+    "traditional": "杯",
+    "pinyin": "bēi",
+    "meaning": "cup",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0310",
+    "simplified": "接",
+    "traditional": "接",
+    "pinyin": "jiē",
+    "meaning": "catch",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  },
+  {
+    "id": "hsk1-0311",
+    "simplified": "机场",
+    "traditional": "機場",
+    "pinyin": "jī chǎng",
+    "meaning": "airport",
+    "level": "HSK 1",
+    "source": "BCT A (DigMandarin) match",
+    "meaning_status": "from_bct"
+  }
+]

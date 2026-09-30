@@ -1,0 +1,11 @@
+{
+  "hsk_counts": {
+    "HSK 1": 311,
+    "HSK 2": 212,
+    "HSK 3": 528
+  },
+  "total": 1051,
+  "matched_bct": 424,
+  "missing_meanings": 627,
+  "bct_entries": 593
+}

@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "summary": {
+    "hsk_counts": {
+      "HSK 1": 311,
+      "HSK 2": 212,
+      "HSK 3": 528
+    },
+    "total": 1051,
+    "matched_bct": 424,
+    "missing_meanings": 627,
+    "bct_entries": 593
+  },
+  "entry_schema": {
+    "simplified": "string",
+    "traditional": "string",
+    "pinyin": "string|null",
+    "meaning": "string|null",
+    "level": "string",
+    "source": "string|null",
+    "meaning_status": "from_bct|missing"
+  }
+}

@@ -1,0 +1,6272 @@
+[
+  {
+    "id": "hsk1-0002",
+    "simplified": "八",
+    "traditional": "八",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0003",
+    "simplified": "爸爸",
+    "traditional": "爸爸",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0005",
+    "simplified": "白天",
+    "traditional": "白天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0006",
+    "simplified": "百",
+    "traditional": "百",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0008",
+    "simplified": "包子",
+    "traditional": "包子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0009",
+    "simplified": "杯子",
+    "traditional": "杯子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0011",
+    "simplified": "边",
+    "traditional": "邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0012",
+    "simplified": "病",
+    "traditional": "病",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0015",
+    "simplified": "不要",
+    "traditional": "不要",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0016",
+    "simplified": "菜",
+    "traditional": "菜",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0018",
+    "simplified": "唱",
+    "traditional": "唱",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0020",
+    "simplified": "车",
+    "traditional": "車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0021",
+    "simplified": "吃",
+    "traditional": "吃",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0024",
+    "simplified": "打电话",
+    "traditional": "打電話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0027",
+    "simplified": "大学",
+    "traditional": "大學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0028",
+    "simplified": "大学生",
+    "traditional": "大學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0031",
+    "simplified": "第",
+    "traditional": "第",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0032",
+    "simplified": "弟弟",
+    "traditional": "弟弟",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0034",
+    "simplified": "店",
+    "traditional": "店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0038",
+    "simplified": "电影",
+    "traditional": "電影",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0039",
+    "simplified": "电影院",
+    "traditional": "電影院",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0043",
+    "simplified": "读书",
+    "traditional": "讀書",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0048",
+    "simplified": "儿子",
+    "traditional": "兒子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0049",
+    "simplified": "二",
+    "traditional": "二",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0050",
+    "simplified": "饭",
+    "traditional": "飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0051",
+    "simplified": "饭店",
+    "traditional": "飯店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0055",
+    "simplified": "分",
+    "traditional": "分",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0056",
+    "simplified": "分钟",
+    "traditional": "分鐘",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0058",
+    "simplified": "歌",
+    "traditional": "歌",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0059",
+    "simplified": "哥哥",
+    "traditional": "哥哥",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0064",
+    "simplified": "狗",
+    "traditional": "狗",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0066",
+    "simplified": "国",
+    "traditional": "國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0068",
+    "simplified": "孩子",
+    "traditional": "孩子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0070",
+    "simplified": "汉字",
+    "traditional": "漢字",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0073",
+    "simplified": "好看",
+    "traditional": "好看",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0074",
+    "simplified": "好听",
+    "traditional": "好聽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0075",
+    "simplified": "好玩儿",
+    "traditional": "好玩兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0080",
+    "simplified": "后",
+    "traditional": "后",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0084",
+    "simplified": "鸡蛋",
+    "traditional": "雞蛋",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0087",
+    "simplified": "家人",
+    "traditional": "家人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0088",
+    "simplified": "见",
+    "traditional": "見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0090",
+    "simplified": "饺子",
+    "traditional": "餃子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0092",
+    "simplified": "姐姐",
+    "traditional": "姐姐",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0093",
+    "simplified": "今年",
+    "traditional": "今年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0095",
+    "simplified": "九",
+    "traditional": "九",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0098",
+    "simplified": "开车",
+    "traditional": "開車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0100",
+    "simplified": "看病",
+    "traditional": "看病",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0101",
+    "simplified": "看见",
+    "traditional": "看見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0103",
+    "simplified": "课",
+    "traditional": "課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0104",
+    "simplified": "口",
+    "traditional": "口",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0105",
+    "simplified": "块",
+    "traditional": "塊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0107",
+    "simplified": "老师",
+    "traditional": "老師",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0110",
+    "simplified": "里",
+    "traditional": "里",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0111",
+    "simplified": "两",
+    "traditional": "兩",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0112",
+    "simplified": "零",
+    "traditional": "零",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0113",
+    "simplified": "六",
+    "traditional": "六",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0114",
+    "simplified": "妈妈",
+    "traditional": "媽媽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0119",
+    "simplified": "猫",
+    "traditional": "貓",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0121",
+    "simplified": "没事",
+    "traditional": "沒事",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0123",
+    "simplified": "妹妹",
+    "traditional": "妹妹",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0124",
+    "simplified": "们",
+    "traditional": "們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0125",
+    "simplified": "米饭",
+    "traditional": "米飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0126",
+    "simplified": "面包",
+    "traditional": "麵包",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0127",
+    "simplified": "面条儿",
+    "traditional": "麵條兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0128",
+    "simplified": "明年",
+    "traditional": "明年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0132",
+    "simplified": "哪个",
+    "traditional": "哪個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0133",
+    "simplified": "哪里",
+    "traditional": "哪裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0135",
+    "simplified": "哪些",
+    "traditional": "哪些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0137",
+    "simplified": "那边",
+    "traditional": "那邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0138",
+    "simplified": "那个",
+    "traditional": "那個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0139",
+    "simplified": "那里",
+    "traditional": "那裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0141",
+    "simplified": "那些",
+    "traditional": "那些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0143",
+    "simplified": "男朋友",
+    "traditional": "男朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0146",
+    "simplified": "你",
+    "traditional": "你",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0147",
+    "simplified": "你好",
+    "traditional": "你好",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0148",
+    "simplified": "你们",
+    "traditional": "你們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0149",
+    "simplified": "年",
+    "traditional": "年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0151",
+    "simplified": "牛奶",
+    "traditional": "牛奶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0153",
+    "simplified": "女儿",
+    "traditional": "女兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0154",
+    "simplified": "女朋友",
+    "traditional": "女朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0155",
+    "simplified": "女士",
+    "traditional": "女士",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0159",
+    "simplified": "苹果",
+    "traditional": "蘋果",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0160",
+    "simplified": "七",
+    "traditional": "七",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0162",
+    "simplified": "千",
+    "traditional": "千",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0163",
+    "simplified": "前",
+    "traditional": "前",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0166",
+    "simplified": "请问",
+    "traditional": "請問",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0172",
+    "simplified": "日",
+    "traditional": "日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0173",
+    "simplified": "三",
+    "traditional": "三",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0175",
+    "simplified": "上",
+    "traditional": "上",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0177",
+    "simplified": "上课",
+    "traditional": "上課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0179",
+    "simplified": "上学",
+    "traditional": "上學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0184",
+    "simplified": "十",
+    "traditional": "十",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0187",
+    "simplified": "事",
+    "traditional": "事",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0190",
+    "simplified": "书",
+    "traditional": "書",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0191",
+    "simplified": "书店",
+    "traditional": "書店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0194",
+    "simplified": "睡",
+    "traditional": "睡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0197",
+    "simplified": "说话",
+    "traditional": "說話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0198",
+    "simplified": "四",
+    "traditional": "四",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0204",
+    "simplified": "它们",
+    "traditional": "它們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0205",
+    "simplified": "她们",
+    "traditional": "她們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0207",
+    "simplified": "天",
+    "traditional": "天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0210",
+    "simplified": "听见",
+    "traditional": "聽見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0211",
+    "simplified": "同学",
+    "traditional": "同學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0212",
+    "simplified": "外",
+    "traditional": "外",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0213",
+    "simplified": "外边",
+    "traditional": "外邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0214",
+    "simplified": "玩",
+    "traditional": "玩",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0216",
+    "simplified": "晚饭",
+    "traditional": "晚飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0218",
+    "simplified": "喂",
+    "traditional": "喂",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0223",
+    "simplified": "五",
+    "traditional": "五",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0224",
+    "simplified": "午饭",
+    "traditional": "午飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0226",
+    "simplified": "下",
+    "traditional": "下",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0227",
+    "simplified": "下班",
+    "traditional": "下班",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0228",
+    "simplified": "下课",
+    "traditional": "下課",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0235",
+    "simplified": "小朋友",
+    "traditional": "小朋友",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0236",
+    "simplified": "小时",
+    "traditional": "小時",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0237",
+    "simplified": "小学",
+    "traditional": "小學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0238",
+    "simplified": "小学生",
+    "traditional": "小學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0243",
+    "simplified": "星期",
+    "traditional": "星期",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0244",
+    "simplified": "星期日",
+    "traditional": "星期日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0245",
+    "simplified": "星期天",
+    "traditional": "星期天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0247",
+    "simplified": "学",
+    "traditional": "學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0248",
+    "simplified": "学生",
+    "traditional": "學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0251",
+    "simplified": "雪",
+    "traditional": "雪",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0254",
+    "simplified": "一",
+    "traditional": "一",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0258",
+    "simplified": "一半",
+    "traditional": "一半",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0260",
+    "simplified": "椅子",
+    "traditional": "椅子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0262",
+    "simplified": "一些",
+    "traditional": "一些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0264",
+    "simplified": "有的",
+    "traditional": "有的",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0265",
+    "simplified": "有点儿",
+    "traditional": "有點兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0266",
+    "simplified": "有些",
+    "traditional": "有些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0267",
+    "simplified": "雨",
+    "traditional": "雨",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0268",
+    "simplified": "元",
+    "traditional": "元",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0269",
+    "simplified": "月",
+    "traditional": "月",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0274",
+    "simplified": "早饭",
+    "traditional": "早飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0279",
+    "simplified": "这",
+    "traditional": "這",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0280",
+    "simplified": "这边",
+    "traditional": "這邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0281",
+    "simplified": "这个",
+    "traditional": "這個",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0282",
+    "simplified": "这里",
+    "traditional": "這裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0283",
+    "simplified": "这儿",
+    "traditional": "這兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0284",
+    "simplified": "这些",
+    "traditional": "這些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0289",
+    "simplified": "中国",
+    "traditional": "中國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0290",
+    "simplified": "中文",
+    "traditional": "中文",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0292",
+    "simplified": "中学",
+    "traditional": "中學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0293",
+    "simplified": "中学生",
+    "traditional": "中學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0296",
+    "simplified": "字",
+    "traditional": "字",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0300",
+    "simplified": "做饭",
+    "traditional": "做飯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0301",
+    "simplified": "没",
+    "traditional": "沒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0302",
+    "simplified": "病人",
+    "traditional": "病人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0303",
+    "simplified": "前边",
+    "traditional": "前邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0304",
+    "simplified": "售货员",
+    "traditional": "售貨員",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk1-0306",
+    "simplified": "医",
+    "traditional": "醫",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 1",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0001",
+    "simplified": "啊",
+    "traditional": "啊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0003",
+    "simplified": "白色",
+    "traditional": "白色",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0004",
+    "simplified": "班",
+    "traditional": "班",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0005",
+    "simplified": "帮",
+    "traditional": "幫",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0006",
+    "simplified": "帮忙",
+    "traditional": "幫忙",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0008",
+    "simplified": "本子",
+    "traditional": "本子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0012",
+    "simplified": "不错",
+    "traditional": "不錯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0013",
+    "simplified": "不好意思",
+    "traditional": "不好意思",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0015",
+    "simplified": "车站",
+    "traditional": "車站",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0017",
+    "simplified": "出国",
+    "traditional": "出國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0018",
+    "simplified": "出来",
+    "traditional": "出來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0019",
+    "simplified": "出门",
+    "traditional": "出門",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0020",
+    "simplified": "出去",
+    "traditional": "出去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0021",
+    "simplified": "床",
+    "traditional": "床",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0022",
+    "simplified": "词",
+    "traditional": "詞",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0025",
+    "simplified": "从小",
+    "traditional": "從小",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0028",
+    "simplified": "打车",
+    "traditional": "打車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0029",
+    "simplified": "打开",
+    "traditional": "打開",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0030",
+    "simplified": "但",
+    "traditional": "但",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0031",
+    "simplified": "但是",
+    "traditional": "但是",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0038",
+    "simplified": "动",
+    "traditional": "動",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0039",
+    "simplified": "饭馆",
+    "traditional": "飯館",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0040",
+    "simplified": "飞",
+    "traditional": "飛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0042",
+    "simplified": "高中",
+    "traditional": "高中",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0044",
+    "simplified": "个子",
+    "traditional": "個子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0046",
+    "simplified": "公交车",
+    "traditional": "公交車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0048",
+    "simplified": "过来",
+    "traditional": "過來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0049",
+    "simplified": "过年",
+    "traditional": "過年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0050",
+    "simplified": "过去",
+    "traditional": "過去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0052",
+    "simplified": "黑色",
+    "traditional": "黑色",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0053",
+    "simplified": "红茶",
+    "traditional": "紅茶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0054",
+    "simplified": "红色",
+    "traditional": "紅色",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0055",
+    "simplified": "后面",
+    "traditional": "後面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0056",
+    "simplified": "花",
+    "traditional": "花",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0057",
+    "simplified": "画",
+    "traditional": "畫",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0059",
+    "simplified": "回来",
+    "traditional": "回來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0060",
+    "simplified": "回去",
+    "traditional": "回去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0062",
+    "simplified": "机票",
+    "traditional": "機票",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0064",
+    "simplified": "间",
+    "traditional": "間",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0065",
+    "simplified": "教",
+    "traditional": "教",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0066",
+    "simplified": "教室",
+    "traditional": "教室",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0070",
+    "simplified": "进来",
+    "traditional": "進來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0071",
+    "simplified": "进去",
+    "traditional": "進去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0073",
+    "simplified": "酒店",
+    "traditional": "酒店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0077",
+    "simplified": "开学",
+    "traditional": "開學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0078",
+    "simplified": "考",
+    "traditional": "考",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0079",
+    "simplified": "考试",
+    "traditional": "考試",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0083",
+    "simplified": "快乐",
+    "traditional": "快樂",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0084",
+    "simplified": "快要",
+    "traditional": "快要",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0085",
+    "simplified": "篮球",
+    "traditional": "籃球",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0088",
+    "simplified": "里面",
+    "traditional": "裡面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0091",
+    "simplified": "路上",
+    "traditional": "路上",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0093",
+    "simplified": "绿茶",
+    "traditional": "綠茶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0094",
+    "simplified": "绿色",
+    "traditional": "綠色",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0095",
+    "simplified": "慢",
+    "traditional": "慢",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0096",
+    "simplified": "没意思",
+    "traditional": "沒意思",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0099",
+    "simplified": "门口",
+    "traditional": "門口",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0100",
+    "simplified": "门票",
+    "traditional": "門票",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0101",
+    "simplified": "面",
+    "traditional": "面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0102",
+    "simplified": "名",
+    "traditional": "名",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0104",
+    "simplified": "那么",
+    "traditional": "那麼",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0105",
+    "simplified": "那样",
+    "traditional": "那樣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0106",
+    "simplified": "奶茶",
+    "traditional": "奶茶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0107",
+    "simplified": "奶奶",
+    "traditional": "奶奶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0108",
+    "simplified": "男孩儿",
+    "traditional": "男孩兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0109",
+    "simplified": "鸟",
+    "traditional": "鳥",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0110",
+    "simplified": "女孩儿",
+    "traditional": "女孩兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0111",
+    "simplified": "旁边",
+    "traditional": "旁邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0112",
+    "simplified": "跑",
+    "traditional": "跑",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0115",
+    "simplified": "妻子",
+    "traditional": "妻子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0116",
+    "simplified": "起来",
+    "traditional": "起來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0117",
+    "simplified": "前面",
+    "traditional": "前面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0119",
+    "simplified": "球",
+    "traditional": "球",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0121",
+    "simplified": "肉",
+    "traditional": "肉",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0122",
+    "simplified": "商场",
+    "traditional": "商場",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0123",
+    "simplified": "上来",
+    "traditional": "上來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0124",
+    "simplified": "上面",
+    "traditional": "上面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0125",
+    "simplified": "上去",
+    "traditional": "上去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0128",
+    "simplified": "生日",
+    "traditional": "生日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0129",
+    "simplified": "时",
+    "traditional": "時",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0131",
+    "simplified": "手",
+    "traditional": "手",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0132",
+    "simplified": "手表",
+    "traditional": "手錶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0133",
+    "simplified": "书包",
+    "traditional": "書包",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0136",
+    "simplified": "虽然",
+    "traditional": "雖然",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0137",
+    "simplified": "所以",
+    "traditional": "所以",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0139",
+    "simplified": "踢",
+    "traditional": "踢",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0140",
+    "simplified": "题",
+    "traditional": "題",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0142",
+    "simplified": "跳舞",
+    "traditional": "跳舞",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0143",
+    "simplified": "头",
+    "traditional": "頭",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0144",
+    "simplified": "外国",
+    "traditional": "外國",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0145",
+    "simplified": "外面",
+    "traditional": "外面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0147",
+    "simplified": "万",
+    "traditional": "萬",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0149",
+    "simplified": "网上",
+    "traditional": "網上",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0150",
+    "simplified": "忘",
+    "traditional": "忘",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0154",
+    "simplified": "洗",
+    "traditional": "洗",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0156",
+    "simplified": "下来",
+    "traditional": "下來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0157",
+    "simplified": "下面",
+    "traditional": "下面",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0158",
+    "simplified": "下去",
+    "traditional": "下去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0159",
+    "simplified": "小孩儿",
+    "traditional": "小孩兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0160",
+    "simplified": "小时候",
+    "traditional": "小時候",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0163",
+    "simplified": "姓名",
+    "traditional": "姓名",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0165",
+    "simplified": "眼睛",
+    "traditional": "眼睛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0167",
+    "simplified": "药店",
+    "traditional": "藥店",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0168",
+    "simplified": "爷爷",
+    "traditional": "爺爺",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0173",
+    "simplified": "阴",
+    "traditional": "陰",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0174",
+    "simplified": "因为",
+    "traditional": "因為",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0175",
+    "simplified": "游",
+    "traditional": "游",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0176",
+    "simplified": "游泳",
+    "traditional": "游泳",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0177",
+    "simplified": "有时",
+    "traditional": "有時",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0178",
+    "simplified": "有意思",
+    "traditional": "有意思",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0179",
+    "simplified": "右",
+    "traditional": "右",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0180",
+    "simplified": "右边",
+    "traditional": "右邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0181",
+    "simplified": "鱼",
+    "traditional": "魚",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0185",
+    "simplified": "丈夫",
+    "traditional": "丈夫",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0186",
+    "simplified": "这么",
+    "traditional": "這麼",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0187",
+    "simplified": "这样",
+    "traditional": "這樣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0189",
+    "simplified": "正",
+    "traditional": "正",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0190",
+    "simplified": "周",
+    "traditional": "周",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0191",
+    "simplified": "准备",
+    "traditional": "準備",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0194",
+    "simplified": "走路",
+    "traditional": "走路",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0195",
+    "simplified": "足球",
+    "traditional": "足球",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0197",
+    "simplified": "左",
+    "traditional": "左",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0198",
+    "simplified": "左边",
+    "traditional": "左邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0204",
+    "simplified": "式",
+    "traditional": "式",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0207",
+    "simplified": "画笔",
+    "traditional": "畫筆",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0208",
+    "simplified": "蛋糕",
+    "traditional": "蛋糕",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0209",
+    "simplified": "爱情片",
+    "traditional": "愛情片",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0210",
+    "simplified": "新年",
+    "traditional": "新年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0211",
+    "simplified": "房子",
+    "traditional": "房子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk2-0212",
+    "simplified": "好像",
+    "traditional": "好像",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 2",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0001",
+    "simplified": "阿姨",
+    "traditional": "阿姨",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0002",
+    "simplified": "矮",
+    "traditional": "矮",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0003",
+    "simplified": "爱人",
+    "traditional": "愛人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0004",
+    "simplified": "安静",
+    "traditional": "安靜",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0007",
+    "simplified": "搬",
+    "traditional": "搬",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0008",
+    "simplified": "班级",
+    "traditional": "班級",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0009",
+    "simplified": "搬家",
+    "traditional": "搬家",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0010",
+    "simplified": "办",
+    "traditional": "辦",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0013",
+    "simplified": "半天",
+    "traditional": "半天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0017",
+    "simplified": "北",
+    "traditional": "北",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0018",
+    "simplified": "北方",
+    "traditional": "北方",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0020",
+    "simplified": "笔记",
+    "traditional": "筆記",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0021",
+    "simplified": "笔记本",
+    "traditional": "筆記本",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0023",
+    "simplified": "比如",
+    "traditional": "比如",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0024",
+    "simplified": "比赛",
+    "traditional": "比賽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0026",
+    "simplified": "变",
+    "traditional": "變",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0028",
+    "simplified": "变成",
+    "traditional": "變成",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0030",
+    "simplified": "表演",
+    "traditional": "表演",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0031",
+    "simplified": "别的",
+    "traditional": "別的",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0034",
+    "simplified": "冰",
+    "traditional": "冰",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0035",
+    "simplified": "冰激凌",
+    "traditional": "冰激凌",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0036",
+    "simplified": "冰箱",
+    "traditional": "冰箱",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0037",
+    "simplified": "病人",
+    "traditional": "病人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0038",
+    "simplified": "不但",
+    "traditional": "不但",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0039",
+    "simplified": "不见",
+    "traditional": "不見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0040",
+    "simplified": "不用",
+    "traditional": "不用",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0041",
+    "simplified": "不久",
+    "traditional": "不久",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0042",
+    "simplified": "不同",
+    "traditional": "不同",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0043",
+    "simplified": "不行",
+    "traditional": "不行",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0047",
+    "simplified": "草",
+    "traditional": "草",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0048",
+    "simplified": "草地",
+    "traditional": "草地",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0050",
+    "simplified": "查",
+    "traditional": "查",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0053",
+    "simplified": "尝",
+    "traditional": "嘗",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0054",
+    "simplified": "常",
+    "traditional": "常",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0055",
+    "simplified": "常常",
+    "traditional": "常常",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0056",
+    "simplified": "常见",
+    "traditional": "常見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0057",
+    "simplified": "常用",
+    "traditional": "常用",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0059",
+    "simplified": "成绩",
+    "traditional": "成績",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0063",
+    "simplified": "出生",
+    "traditional": "出生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0064",
+    "simplified": "出院",
+    "traditional": "出院",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0065",
+    "simplified": "初中",
+    "traditional": "初中",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0068",
+    "simplified": "春天",
+    "traditional": "春天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0069",
+    "simplified": "词典",
+    "traditional": "詞典",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0070",
+    "simplified": "聪明",
+    "traditional": "聰明",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0071",
+    "simplified": "打扫",
+    "traditional": "打掃",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0074",
+    "simplified": "大人",
+    "traditional": "大人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0075",
+    "simplified": "大小",
+    "traditional": "大小",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0076",
+    "simplified": "大熊猫",
+    "traditional": "大熊貓",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0077",
+    "simplified": "大衣",
+    "traditional": "大衣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0080",
+    "simplified": "蛋糕",
+    "traditional": "蛋糕",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0082",
+    "simplified": "到处",
+    "traditional": "到處",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0084",
+    "simplified": "得到",
+    "traditional": "得到",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0085",
+    "simplified": "得分",
+    "traditional": "得分",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0086",
+    "simplified": "的话",
+    "traditional": "的話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0087",
+    "simplified": "灯",
+    "traditional": "燈",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0089",
+    "simplified": "地点",
+    "traditional": "地點",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0092",
+    "simplified": "电",
+    "traditional": "電",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0094",
+    "simplified": "电子书",
+    "traditional": "電子書",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0095",
+    "simplified": "丢",
+    "traditional": "丟",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0096",
+    "simplified": "东",
+    "traditional": "東",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0097",
+    "simplified": "东北",
+    "traditional": "東北",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0098",
+    "simplified": "东方",
+    "traditional": "東方",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0099",
+    "simplified": "东南",
+    "traditional": "東南",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0100",
+    "simplified": "冬天",
+    "traditional": "冬天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0101",
+    "simplified": "懂得",
+    "traditional": "懂得",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0102",
+    "simplified": "动物",
+    "traditional": "動物",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0103",
+    "simplified": "动物园",
+    "traditional": "動物園",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0105",
+    "simplified": "短裤",
+    "traditional": "短褲",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0106",
+    "simplified": "段",
+    "traditional": "段",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0108",
+    "simplified": "对话",
+    "traditional": "對話",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0109",
+    "simplified": "饿",
+    "traditional": "餓",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0110",
+    "simplified": "而且",
+    "traditional": "而且",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0111",
+    "simplified": "耳朵",
+    "traditional": "耳朵",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0112",
+    "simplified": "耳机",
+    "traditional": "耳機",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0119",
+    "simplified": "方便面",
+    "traditional": "方便麵",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0122",
+    "simplified": "房子",
+    "traditional": "房子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0125",
+    "simplified": "放心",
+    "traditional": "放心",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0126",
+    "simplified": "放学",
+    "traditional": "放學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0127",
+    "simplified": "分开",
+    "traditional": "分開",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0128",
+    "simplified": "风",
+    "traditional": "風",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0129",
+    "simplified": "封",
+    "traditional": "封",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0130",
+    "simplified": "夫妻",
+    "traditional": "夫妻",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0131",
+    "simplified": "服务",
+    "traditional": "服務",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0133",
+    "simplified": "复习",
+    "traditional": "複習",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0134",
+    "simplified": "该",
+    "traditional": "該",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0136",
+    "simplified": "感到",
+    "traditional": "感到",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0138",
+    "simplified": "感兴趣",
+    "traditional": "感興趣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0140",
+    "simplified": "刚",
+    "traditional": "剛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0142",
+    "simplified": "刚刚",
+    "traditional": "剛剛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0143",
+    "simplified": "高铁",
+    "traditional": "高鐵",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0146",
+    "simplified": "公斤",
+    "traditional": "公斤",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0147",
+    "simplified": "公园",
+    "traditional": "公園",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0148",
+    "simplified": "工作日",
+    "traditional": "工作日",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0149",
+    "simplified": "故事",
+    "traditional": "故事",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0150",
+    "simplified": "刮",
+    "traditional": "刮",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0152",
+    "simplified": "关机",
+    "traditional": "關機",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0156",
+    "simplified": "关注",
+    "traditional": "關注",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0158",
+    "simplified": "过节",
+    "traditional": "過節",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0159",
+    "simplified": "过去",
+    "traditional": "過去",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0160",
+    "simplified": "海",
+    "traditional": "海",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0161",
+    "simplified": "害怕",
+    "traditional": "害怕",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0162",
+    "simplified": "好多",
+    "traditional": "好多",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0163",
+    "simplified": "好久",
+    "traditional": "好久",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0164",
+    "simplified": "好像",
+    "traditional": "好像",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0166",
+    "simplified": "河",
+    "traditional": "河",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0168",
+    "simplified": "黑板",
+    "traditional": "黑板",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0169",
+    "simplified": "红绿灯",
+    "traditional": "紅綠燈",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0170",
+    "simplified": "后来",
+    "traditional": "後來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0171",
+    "simplified": "后年",
+    "traditional": "後年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0172",
+    "simplified": "后天",
+    "traditional": "後天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0174",
+    "simplified": "花园",
+    "traditional": "花園",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0175",
+    "simplified": "画家",
+    "traditional": "畫家",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0178",
+    "simplified": "环境",
+    "traditional": "環境",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0180",
+    "simplified": "黄色",
+    "traditional": "黃色",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0184",
+    "simplified": "或",
+    "traditional": "或",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0186",
+    "simplified": "鸡",
+    "traditional": "雞",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0187",
+    "simplified": "几乎",
+    "traditional": "幾乎",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0191",
+    "simplified": "记",
+    "traditional": "記",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0192",
+    "simplified": "季",
+    "traditional": "季",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0193",
+    "simplified": "季节",
+    "traditional": "季節",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0194",
+    "simplified": "加",
+    "traditional": "加",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0195",
+    "simplified": "假期",
+    "traditional": "假期",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0196",
+    "simplified": "坚持",
+    "traditional": "堅持",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0199",
+    "simplified": "检票",
+    "traditional": "檢票",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0203",
+    "simplified": "角",
+    "traditional": "角",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0204",
+    "simplified": "脚",
+    "traditional": "腳",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0206",
+    "simplified": "街",
+    "traditional": "街",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0207",
+    "simplified": "节",
+    "traditional": "節",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0208",
+    "simplified": "结婚",
+    "traditional": "結婚",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0209",
+    "simplified": "节目",
+    "traditional": "節目",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0213",
+    "simplified": "姐妹",
+    "traditional": "姐妹",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0219",
+    "simplified": "酒",
+    "traditional": "酒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0220",
+    "simplified": "旧",
+    "traditional": "舊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0221",
+    "simplified": "句",
+    "traditional": "句",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0222",
+    "simplified": "句子",
+    "traditional": "句子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0224",
+    "simplified": "卡",
+    "traditional": "卡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0225",
+    "simplified": "开花",
+    "traditional": "開花",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0226",
+    "simplified": "开会",
+    "traditional": "開會",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0227",
+    "simplified": "开机",
+    "traditional": "開機",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0228",
+    "simplified": "开心",
+    "traditional": "開心",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0229",
+    "simplified": "看来",
+    "traditional": "看來",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0230",
+    "simplified": "可",
+    "traditional": "可",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0231",
+    "simplified": "渴",
+    "traditional": "渴",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0232",
+    "simplified": "可爱",
+    "traditional": "可愛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0233",
+    "simplified": "可是",
+    "traditional": "可是",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0234",
+    "simplified": "刻",
+    "traditional": "刻",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0235",
+    "simplified": "课本",
+    "traditional": "課本",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0237",
+    "simplified": "课文",
+    "traditional": "課文",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0239",
+    "simplified": "哭",
+    "traditional": "哭",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0240",
+    "simplified": "筷子",
+    "traditional": "筷子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0241",
+    "simplified": "矿泉水",
+    "traditional": "礦泉水",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0242",
+    "simplified": "来自",
+    "traditional": "來自",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0243",
+    "simplified": "蓝",
+    "traditional": "藍",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0245",
+    "simplified": "老人",
+    "traditional": "老人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0248",
+    "simplified": "历史",
+    "traditional": "歷史",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0249",
+    "simplified": "脸",
+    "traditional": "臉",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0250",
+    "simplified": "练",
+    "traditional": "練",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0251",
+    "simplified": "练习",
+    "traditional": "練習",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0252",
+    "simplified": "凉快",
+    "traditional": "涼快",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0254",
+    "simplified": "聊",
+    "traditional": "聊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0255",
+    "simplified": "聊天儿",
+    "traditional": "聊天兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0257",
+    "simplified": "邻居",
+    "traditional": "鄰居",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0258",
+    "simplified": "留学",
+    "traditional": "留學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0259",
+    "simplified": "留学生",
+    "traditional": "留學生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0260",
+    "simplified": "楼梯",
+    "traditional": "樓梯",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0261",
+    "simplified": "路边",
+    "traditional": "路邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0262",
+    "simplified": "路口",
+    "traditional": "路口",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0263",
+    "simplified": "马",
+    "traditional": "馬",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0264",
+    "simplified": "马路",
+    "traditional": "馬路",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0267",
+    "simplified": "毛",
+    "traditional": "毛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0269",
+    "simplified": "面前",
+    "traditional": "面前",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0270",
+    "simplified": "明白",
+    "traditional": "明白",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0271",
+    "simplified": "名单",
+    "traditional": "名單",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0272",
+    "simplified": "名人",
+    "traditional": "名人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0273",
+    "simplified": "南",
+    "traditional": "南",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0275",
+    "simplified": "南方",
+    "traditional": "南方",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0276",
+    "simplified": "难过",
+    "traditional": "難過",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0277",
+    "simplified": "难看",
+    "traditional": "難看",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0278",
+    "simplified": "男人",
+    "traditional": "男人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0279",
+    "simplified": "男生",
+    "traditional": "男生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0280",
+    "simplified": "难题",
+    "traditional": "難題",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0281",
+    "simplified": "难听",
+    "traditional": "難聽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0282",
+    "simplified": "年级",
+    "traditional": "年級",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0284",
+    "simplified": "牛",
+    "traditional": "牛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0286",
+    "simplified": "女人",
+    "traditional": "女人",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0287",
+    "simplified": "女生",
+    "traditional": "女生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0288",
+    "simplified": "爬",
+    "traditional": "爬",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0289",
+    "simplified": "怕",
+    "traditional": "怕",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0290",
+    "simplified": "拍照",
+    "traditional": "拍照",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0291",
+    "simplified": "盘子",
+    "traditional": "盤子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0292",
+    "simplified": "胖",
+    "traditional": "胖",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0294",
+    "simplified": "平时",
+    "traditional": "平時",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0295",
+    "simplified": "瓶子",
+    "traditional": "瓶子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0296",
+    "simplified": "骑",
+    "traditional": "騎",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0300",
+    "simplified": "起",
+    "traditional": "起",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0302",
+    "simplified": "汽车",
+    "traditional": "汽車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0303",
+    "simplified": "铅笔",
+    "traditional": "鉛筆",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0304",
+    "simplified": "前年",
+    "traditional": "前年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0305",
+    "simplified": "前天",
+    "traditional": "前天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0307",
+    "simplified": "请假",
+    "traditional": "請假",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0308",
+    "simplified": "请客",
+    "traditional": "請客",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0309",
+    "simplified": "秋天",
+    "traditional": "秋天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0310",
+    "simplified": "球场",
+    "traditional": "球場",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0311",
+    "simplified": "裙子",
+    "traditional": "裙子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0313",
+    "simplified": "热情",
+    "traditional": "熱情",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0314",
+    "simplified": "认得",
+    "traditional": "認得",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0320",
+    "simplified": "扫",
+    "traditional": "掃",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0321",
+    "simplified": "沙发",
+    "traditional": "沙發",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0322",
+    "simplified": "山",
+    "traditional": "山",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0323",
+    "simplified": "上衣",
+    "traditional": "上衣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0324",
+    "simplified": "勺子",
+    "traditional": "勺子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0325",
+    "simplified": "身边",
+    "traditional": "身邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0326",
+    "simplified": "身高",
+    "traditional": "身高",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0327",
+    "simplified": "声",
+    "traditional": "聲",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0329",
+    "simplified": "生气",
+    "traditional": "生氣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0330",
+    "simplified": "声音",
+    "traditional": "聲音",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0331",
+    "simplified": "市",
+    "traditional": "市",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0333",
+    "simplified": "室",
+    "traditional": "室",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0336",
+    "simplified": "收到",
+    "traditional": "收到",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0337",
+    "simplified": "受",
+    "traditional": "受",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0339",
+    "simplified": "受到",
+    "traditional": "受到",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0340",
+    "simplified": "叔叔",
+    "traditional": "叔叔",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0341",
+    "simplified": "树",
+    "traditional": "樹",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0342",
+    "simplified": "数学",
+    "traditional": "數學",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0347",
+    "simplified": "四季",
+    "traditional": "四季",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0348",
+    "simplified": "太阳",
+    "traditional": "太陽",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0349",
+    "simplified": "糖",
+    "traditional": "糖",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0350",
+    "simplified": "特别",
+    "traditional": "特別",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0352",
+    "simplified": "体育",
+    "traditional": "體育",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0353",
+    "simplified": "体育馆",
+    "traditional": "體育館",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0354",
+    "simplified": "甜",
+    "traditional": "甜",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0355",
+    "simplified": "跳",
+    "traditional": "跳",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0356",
+    "simplified": "听说",
+    "traditional": "聽說",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0362",
+    "simplified": "图书馆",
+    "traditional": "圖書館",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0363",
+    "simplified": "腿",
+    "traditional": "腿",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0364",
+    "simplified": "外地",
+    "traditional": "外地",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0365",
+    "simplified": "外卖",
+    "traditional": "外賣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0366",
+    "simplified": "外语",
+    "traditional": "外語",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0368",
+    "simplified": "碗",
+    "traditional": "碗",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0369",
+    "simplified": "晚点",
+    "traditional": "晚點",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0370",
+    "simplified": "晚会",
+    "traditional": "晚會",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0371",
+    "simplified": "网球",
+    "traditional": "網球",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0372",
+    "simplified": "网站",
+    "traditional": "網站",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0376",
+    "simplified": "卫生间",
+    "traditional": "衛生間",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0377",
+    "simplified": "文化",
+    "traditional": "文化",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0378",
+    "simplified": "屋子",
+    "traditional": "屋子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0379",
+    "simplified": "西",
+    "traditional": "西",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0380",
+    "simplified": "西北",
+    "traditional": "西北",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0381",
+    "simplified": "西方",
+    "traditional": "西方",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0382",
+    "simplified": "西瓜",
+    "traditional": "西瓜",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0383",
+    "simplified": "西南",
+    "traditional": "西南",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0385",
+    "simplified": "喜爱",
+    "traditional": "喜愛",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0386",
+    "simplified": "洗衣机",
+    "traditional": "洗衣機",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0387",
+    "simplified": "洗澡",
+    "traditional": "洗澡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0388",
+    "simplified": "夏天",
+    "traditional": "夏天",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0390",
+    "simplified": "香蕉",
+    "traditional": "香蕉",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0392",
+    "simplified": "箱子",
+    "traditional": "箱子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0394",
+    "simplified": "像",
+    "traditional": "像",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0395",
+    "simplified": "相机",
+    "traditional": "相機",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0396",
+    "simplified": "小区",
+    "traditional": "小區",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0398",
+    "simplified": "校园",
+    "traditional": "校園",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0399",
+    "simplified": "校长",
+    "traditional": "校長",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0401",
+    "simplified": "心里",
+    "traditional": "心裡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0402",
+    "simplified": "新年",
+    "traditional": "新年",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0404",
+    "simplified": "新鲜",
+    "traditional": "新鮮",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0408",
+    "simplified": "行李",
+    "traditional": "行李",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0410",
+    "simplified": "休假",
+    "traditional": "休假",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0412",
+    "simplified": "选",
+    "traditional": "選",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0414",
+    "simplified": "学期",
+    "traditional": "學期",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0415",
+    "simplified": "牙",
+    "traditional": "牙",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0416",
+    "simplified": "牙刷",
+    "traditional": "牙刷",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0417",
+    "simplified": "羊",
+    "traditional": "羊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0418",
+    "simplified": "养",
+    "traditional": "養",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0420",
+    "simplified": "页",
+    "traditional": "頁",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0423",
+    "simplified": "一块儿",
+    "traditional": "一塊兒",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0426",
+    "simplified": "以前",
+    "traditional": "以前",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0427",
+    "simplified": "以上",
+    "traditional": "以上",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0428",
+    "simplified": "以外",
+    "traditional": "以外",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0430",
+    "simplified": "以下",
+    "traditional": "以下",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0432",
+    "simplified": "一边",
+    "traditional": "一邊",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0434",
+    "simplified": "音乐",
+    "traditional": "音樂",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0436",
+    "simplified": "银行卡",
+    "traditional": "銀行卡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0441",
+    "simplified": "邮件",
+    "traditional": "郵件",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0442",
+    "simplified": "游客",
+    "traditional": "遊客",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0443",
+    "simplified": "游戏",
+    "traditional": "遊戲",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0444",
+    "simplified": "邮箱",
+    "traditional": "郵箱",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0445",
+    "simplified": "有关",
+    "traditional": "有關",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0447",
+    "simplified": "有用",
+    "traditional": "有用",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0449",
+    "simplified": "羽毛球",
+    "traditional": "羽毛球",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0450",
+    "simplified": "语言",
+    "traditional": "語言",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0451",
+    "simplified": "雨衣",
+    "traditional": "雨衣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0453",
+    "simplified": "遇见",
+    "traditional": "遇見",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0454",
+    "simplified": "园",
+    "traditional": "園",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0455",
+    "simplified": "员",
+    "traditional": "員",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0457",
+    "simplified": "越",
+    "traditional": "越",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0458",
+    "simplified": "月亮",
+    "traditional": "月亮",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0459",
+    "simplified": "运动会",
+    "traditional": "運動會",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0460",
+    "simplified": "运动员",
+    "traditional": "運動員",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0461",
+    "simplified": "咱们",
+    "traditional": "咱們",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0462",
+    "simplified": "脏",
+    "traditional": "臟",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0463",
+    "simplified": "怎么办",
+    "traditional": "怎麼辦",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0464",
+    "simplified": "怎样",
+    "traditional": "怎樣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0468",
+    "simplified": "着急",
+    "traditional": "着急",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0469",
+    "simplified": "照",
+    "traditional": "照",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0470",
+    "simplified": "照顾",
+    "traditional": "照顧",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0472",
+    "simplified": "照相",
+    "traditional": "照相",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0473",
+    "simplified": "直到",
+    "traditional": "直到",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0475",
+    "simplified": "纸",
+    "traditional": "紙",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0476",
+    "simplified": "只能",
+    "traditional": "只能",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0477",
+    "simplified": "只是",
+    "traditional": "只是",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0478",
+    "simplified": "只要",
+    "traditional": "只要",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0479",
+    "simplified": "只有",
+    "traditional": "只有",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0480",
+    "simplified": "中",
+    "traditional": "中",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0485",
+    "simplified": "周末",
+    "traditional": "周末",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0487",
+    "simplified": "注意",
+    "traditional": "注意",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0488",
+    "simplified": "住院",
+    "traditional": "住院",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0489",
+    "simplified": "子",
+    "traditional": "子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0490",
+    "simplified": "字典",
+    "traditional": "字典",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0491",
+    "simplified": "自行车",
+    "traditional": "自行車",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0493",
+    "simplified": "总是",
+    "traditional": "總是",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0494",
+    "simplified": "嘴",
+    "traditional": "嘴",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0495",
+    "simplified": "最好",
+    "traditional": "最好",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0496",
+    "simplified": "最后",
+    "traditional": "最後",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0497",
+    "simplified": "最近",
+    "traditional": "最近",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0498",
+    "simplified": "做客",
+    "traditional": "做客",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0499",
+    "simplified": "作业",
+    "traditional": "作業",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0501",
+    "simplified": "分",
+    "traditional": "分",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0504",
+    "simplified": "有些",
+    "traditional": "有些",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0505",
+    "simplified": "头",
+    "traditional": "頭",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0507",
+    "simplified": "服务台",
+    "traditional": "服務台",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0508",
+    "simplified": "客气",
+    "traditional": "客氣",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0509",
+    "simplified": "草原",
+    "traditional": "草原",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0510",
+    "simplified": "哈哈",
+    "traditional": "哈哈",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0511",
+    "simplified": "充电宝",
+    "traditional": "充電寶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0515",
+    "simplified": "叶子",
+    "traditional": "葉子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0516",
+    "simplified": "做法",
+    "traditional": "做法",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0517",
+    "simplified": "视频",
+    "traditional": "視頻",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0518",
+    "simplified": "景点",
+    "traditional": "景點",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0519",
+    "simplified": "竹子",
+    "traditional": "竹子",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0520",
+    "simplified": "国宝",
+    "traditional": "國寶",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0521",
+    "simplified": "全",
+    "traditional": "全",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0522",
+    "simplified": "野生",
+    "traditional": "野生",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0523",
+    "simplified": "真正",
+    "traditional": "真正",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0525",
+    "simplified": "继续",
+    "traditional": "繼續",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0526",
+    "simplified": "联欢",
+    "traditional": "聯歡",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  },
+  {
+    "id": "hsk3-0528",
+    "simplified": "目标",
+    "traditional": "目標",
+    "pinyin": null,
+    "meaning": null,
+    "level": "HSK 3",
+    "source": null,
+    "meaning_status": "missing"
+  }
+]
