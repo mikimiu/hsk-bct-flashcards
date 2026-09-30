@@ -151,7 +151,6 @@ async function load(){
       state.enriched=parseRemote(raw);
       localStorage.setItem('hskFlashEnriched',JSON.stringify(state.enriched));
     }
-    $('#notice').innerHTML='<strong>Ready.</strong> HSK list comes from your uploaded XLSX; BCT A comes from your uploaded PDF. Pinyin/English for HSK are enriched from an open HSK dictionary.';
     renderDeck(true);
   }catch(e){
     console.error(e);
