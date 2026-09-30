@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0b0c">
+<meta name="description" content="Personal HSK 1–3 and BCT A Chinese vocabulary flashcards">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<title>HSK Vocabulary Flashcards</title>
+<style>
+:root{--bg:#050506;--panel:#171718;--panel2:#101011;--line:#303033;--muted:#9a9a9f;--text:#f7f7f7;--accent:#22c55e;--danger:#ef4444;--warn:#f59e0b}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:pointer}
+.app{max-width:920px;margin:0 auto;padding:14px 14px 28px}
+.top{border:1px solid var(--accent);border-radius:10px;padding:12px 12px 10px}
+.brand{display:flex;align-items:center;justify-content:space-between;gap:12px}.brand h1{font-size:18px;margin:0}.sub{font-size:11px;color:var(--muted);margin-top:3px}
+.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;background:#0c0c0d;padding:4px;border-radius:999px;margin-top:12px}
+.tab{padding:9px 7px;border-radius:999px;color:#aaa;font-size:12px}.tab.active{background:#1c1c1e;color:#fff;font-weight:700}
+.toolbar{display:flex;gap:8px;align-items:center;justify-content:space-between;margin:12px 0 8px;flex-wrap:wrap}
+.stats{display:flex;gap:16px;font-size:11px;color:#aaa}.stats b{color:#fff}
+.btn{border:1px solid var(--line);border-radius:999px;padding:8px 12px;font-size:12px;background:#0e0e0f}.btn:hover{border-color:#555}.btn.primary{border-color:#555;background:#18181a}
+.segment{display:flex;background:#111113;border:1px solid #252527;border-radius:10px;padding:3px;gap:3px}.segment button{padding:7px 11px;border-radius:7px;font-size:11px;color:#aaa}.segment button.active{background:#232326;color:#fff}
+.controls{display:grid;grid-template-columns:1fr 160px auto;gap:8px;margin-bottom:10px}.select{width:100%;background:#0f0f10;color:#eee;border:1px solid var(--line);border-radius:9px;padding:9px 10px;font-size:12px}
+.progress-wrap{margin:7px 0 10px}.progress-row{display:flex;justify-content:space-between;font-size:11px;color:#aaa}.bar{height:4px;background:#111;border-radius:9px;margin-top:5px;overflow:hidden}.bar>span{display:block;height:100%;background:var(--accent);width:0}
+.card{background:var(--panel);border:1px solid #1f1f21;border-radius:11px;min-height:320px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:24px;position:relative;overflow:hidden}
+.card .prompt{font-size:10px;color:#9da0a7;margin-bottom:9px}.hanzi{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",sans-serif;font-size:58px;font-weight:800;line-height:1.15;letter-spacing:1px}.hanzi.both{font-size:46px}.hanzi small{display:block;font-size:11px;color:#888;font-family:inherit;margin-top:8px;font-weight:500;letter-spacing:0}
+.answer{margin-top:18px;width:min(560px,100%)}.pinyin{font-size:22px;font-weight:700}.meaning{font-size:14px;color:#ddd;margin-top:8px;line-height:1.5}.meta{font-size:10px;color:#777;margin-top:10px}
+.reveal{margin-top:14px;font-size:12px;text-decoration:underline;text-underline-offset:4px}
+.actions{display:flex;justify-content:space-between;gap:8px;margin-top:10px}.nav{min-width:86px}.rating{display:flex;gap:8px;justify-content:center;flex:1}.rate{min-width:92px}.known{border-color:#226e3e;background:#0e1a13}.missed{border-color:#6e2424;background:#1a0e0e}
+.empty{padding:45px 15px;text-align:center;color:#aaa}.empty b{color:#fff}
+.footer{margin-top:10px}.reset{width:100%;padding:8px;border:1px solid var(--line);border-radius:999px;font-size:11px;color:#aaa}
+.notice{font-size:11px;color:#aaa;padding:8px 2px;line-height:1.45}.notice strong{color:#eee}.notice a{color:#9ae6b4}
+.spinner{width:18px;height:18px;border:2px solid #444;border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
+@media(max-width:600px){.app{padding:9px 9px 20px}.top{padding:11px}.tabs{gap:3px}.tab{font-size:11px;padding:8px 3px}.controls{grid-template-columns:1fr 1fr}.controls .btn{grid-column:1/-1}.stats{gap:10px}.card{min-height:300px;padding:18px}.hanzi{font-size:50px}.hanzi.both{font-size:38px}.actions{flex-wrap:wrap}.rating{order:3;flex-basis:100%}.nav{flex:1}}
+</style>
+</head>
+<body>
+<div class="app">
+  <section class="top">
+    <div class="brand">
+      <div><h1>HSK vocabulary flashcards</h1><div class="sub">Personal daily Chinese review</div></div>
+      <button class="btn" id="shuffleBtn">⤨ Shuffle</button>
+    </div>
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-level="1">HSK 1</button>
+      <button class="tab" data-level="2">HSK 2</button>
+      <button class="tab" data-level="3">HSK 3</button>
+      <button class="tab" data-level="bct">BCT A</button>
+    </div>
+
+    <div class="toolbar">
+      <div class="stats">
+        <span><b id="count">0</b> vocabulary cards</span>
+        <span>✓ <b id="mastered">0</b> mastered</span>
+        <span>• <b id="due">0</b> due</span>
+      </div>
+      <div id="scriptControl" class="segment">
+        <button data-script="both" class="active">Both</button>
+        <button data-script="simplified">简 Simplified</button>
+        <button data-script="traditional">繁 Traditional</button>
+      </div>
+    </div>
+
+    <div class="controls">
+      <select id="statusFilter" class="select">
+        <option value="all">All vocabulary</option>
+        <option value="due">Due for review</option>
+        <option value="unseen">Not reviewed</option>
+        <option value="mastered">Mastered</option>
+        <option value="missed">Missed last time</option>
+      </select>
+      <select id="dailyLimit" class="select">
+        <option value="20">20 cards</option>
+        <option value="30" selected>30 cards</option>
+        <option value="50">50 cards</option>
+        <option value="100">100 cards</option>
+        <option value="99999">All</option>
+      </select>
+      <button class="btn primary" id="resetSection">Reset section progress</button>
+    </div>
+
+    <div class="progress-wrap">
+      <div class="progress-row"><span id="cardLabel">Card 1 / 0</span><span id="sessionLabel">0 mastered</span></div>
+      <div class="bar"><span id="bar"></span></div>
+    </div>
+
+    <div id="card" class="card">
+      <div class="spinner"></div>
+    </div>
+
+    <div class="actions">
+      <button class="btn nav" id="prevBtn">‹ Previous</button>
+      <div class="rating" id="rating" hidden>
+        <button class="btn rate missed" id="missBtn">× Missed</button>
+        <button class="btn rate known" id="knowBtn">✓ Know</button>
+      </div>
+      <button class="btn nav" id="nextBtn">Next ›</button>
+    </div>
+
+    <div class="footer">
+      <button class="reset" id="resetAll">↻ Reset all progress</button>
+    </div>
+    <div class="notice" id="notice"></div>
+  </section>
+</div>
+<script>
+const HSK_REMOTE='https://raw.githubusercontent.com/jelleverheyen/hsk-vocabulary/main/complete.min.json';
+const state={
+  level:1, script:'both', status:'all', limit:30, shuffle:false, index:0, revealed:false,
+  hsk:[], bct:[], deck:[], progress:JSON.parse(localStorage.getItem('hskFlashProgress')||'{}'),
+  enriched:JSON.parse(localStorage.getItem('hskFlashEnriched')||'null')
+};
+const $=s=>document.querySelector(s);
+const save=()=>localStorage.setItem('hskFlashProgress',JSON.stringify(state.progress));
+function key(card){return card.section+'|'+card.id}
+function today(){return new Date().toISOString().slice(0,10)}
+function due(card){
+  const p=state.progress[key(card)]; if(!p||!p.next) return true;
+  return p.next<=today();
+}
+function mastered(card){return !!state.progress[key(card)]?.mastered}
+function missed(card){return state.progress[key(card)]?.last==='missed'}
+function getStats(list){
+  return {mastered:list.filter(mastered).length,due:list.filter(due).length};
+}
+function parseRemote(raw){
+  const map={};
+  for(const e of raw){
+    const forms=e.f||[];
+    if(!forms.length) continue;
+    const form=forms.find(f=>f.i?.y && f.m?.length) || forms.find(f=>f.i?.y) || forms[0];
+    if(!map[e.s] || (form.m?.length && !map[e.s].meaning)) {
+      map[e.s]={pinyin:form.i?.y||'',meaning:(form.m||[]).join('; '),traditional:form.t||e.s};
+    }
+  }
+  return map;
+}
+async function load(){
+  try{
+    const [h,b]=await Promise.all([fetch('data/hsk_source.json').then(r=>r.json()),fetch('data/bct_source.json').then(r=>r.json())]);
+    state.hsk=h.map((x,i)=>({...x,section:'hsk'+x.level,id:`h${x.level}-${i}`}));
+    state.bct=b.map((x,i)=>({...x,section:'bct',id:`b-${i}`}));
+    if(!state.enriched){
+      const cached=localStorage.getItem('hskFlashEnriched');
+      if(cached) state.enriched=JSON.parse(cached);
+    }
+    if(!state.enriched){
+      $('#notice').innerHTML='<strong>Loading pinyin & meanings…</strong> First load needs internet; after that they are saved on this device.';
+      const raw=await fetch(HSK_REMOTE).then(r=>{if(!r.ok)throw Error('dictionary fetch failed');return r.json()});
+      state.enriched=parseRemote(raw);
+      localStorage.setItem('hskFlashEnriched',JSON.stringify(state.enriched));
+    }
+    $('#notice').innerHTML='<strong>Ready.</strong> HSK list comes from your uploaded XLSX; BCT A comes from your uploaded PDF. Pinyin/English for HSK are enriched from an open HSK dictionary.';
+    renderDeck(true);
+  }catch(e){
+    console.error(e);
+    $('#notice').innerHTML='<strong>Could not load the HSK enrichment.</strong> Check your internet connection and reload. The app needs the public dictionary only on the first setup.';
+    renderDeck(true);
+  }
+}
+function enrich(x){
+  const d=state.enriched?.[x.simplified]||{};
+  return {...x,pinyin:d.pinyin||'',meaning:d.meaning||'',remoteTraditional:d.traditional||x.traditional};
+}
+function currentPool(){
+  let list;
+  if(state.level==='bct') list=state.bct;
+  else list=state.hsk.filter(x=>String(x.level)===String(state.level)).map(enrich);
+  if(state.status==='due') list=list.filter(due);
+  if(state.status==='unseen') list=list.filter(x=>!state.progress[key(x)]);
+  if(state.status==='mastered') list=list.filter(mastered);
+  if(state.status==='missed') list=list.filter(missed);
+  if(state.shuffle) list=[...list].sort(()=>Math.random()-.5);
+  return list.slice(0,state.limit);
+}
+function renderDeck(resetIndex=false){
+  state.deck=currentPool();
+  if(resetIndex) state.index=0;
+  if(state.index>=state.deck.length) state.index=Math.max(0,state.deck.length-1);
+  draw();
+}
+function draw(){
+  const list=state.deck, card=list[state.index];
+  const stats=getStats(list);
+  $('#count').textContent=list.length;
+  $('#mastered').textContent=stats.mastered;
+  $('#due').textContent=stats.due;
+  $('#cardLabel').textContent=list.length?`Card ${state.index+1} / ${list.length}`:'No cards';
+  $('#sessionLabel').textContent=`${stats.mastered} mastered`;
+  $('#bar').style.width=list.length?`${((state.index+1)/list.length)*100}%`:'0%';
+  $('#prevBtn').disabled=!list.length||state.index===0;
+  $('#nextBtn').disabled=!list.length||state.index===list.length-1;
+  const rating=$('#rating');
+  if(!card){
+    $('#card').innerHTML='<div class="empty"><b>No cards match this filter.</b><br>Try another filter or reset progress.</div>';
+    rating.hidden=true; return;
+  }
+  const answer=state.level==='bct'?card:{...card,...enrich(card)};
+  let front='';
+  if(state.level==='bct'){
+    front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi">${answer.hanzi}</div>`;
+  }else{
+    const s=state.script;
+    if(s==='simplified') front=`<div class="prompt">What does this Simplified Hanzi mean?</div><div class="hanzi">${answer.simplified}</div>`;
+    else if(s==='traditional') front=`<div class="prompt">What does this Traditional Hanzi mean?</div><div class="hanzi">${answer.traditional}</div>`;
+    else front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi both"><div>简 ${answer.simplified}</div><small>繁 ${answer.traditional}</small></div>`;
+  }
+  let body=front;
+  if(state.revealed){
+    body+=`<div class="answer"><div class="pinyin">${answer.pinyin||'Pinyin unavailable'}</div><div class="meaning">${answer.meaning||'Meaning unavailable'}</div><div class="meta">${state.level==='bct'?'BCT A':'HSK '+answer.level}</div></div>`;
+  }else body+='<button class="reveal" id="revealBtn">Reveal answer</button>';
+  $('#card').innerHTML=body;
+  $('#rating').hidden=!state.revealed;
+  const rev=$('#revealBtn'); if(rev) rev.onclick=()=>{state.revealed=true;draw()};
+}
+function setLevel(v){
+  state.level=v;state.revealed=false;state.shuffle=false;
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.level==v));
+  $('#scriptControl').style.display=v==='bct'?'none':'flex';
+  renderDeck(true);
+}
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>setLevel(t.dataset.level));
+document.querySelectorAll('#scriptControl button').forEach(b=>b.onclick=()=>{state.script=b.dataset.script;document.querySelectorAll('#scriptControl button').forEach(x=>x.classList.toggle('active',x===b));renderDeck(true)});
+$('#statusFilter').onchange=e=>{state.status=e.target.value;renderDeck(true)};
+$('#dailyLimit').onchange=e=>{state.limit=Number(e.target.value);renderDeck(true)};
+$('#shuffleBtn').onclick=()=>{state.shuffle=true;renderDeck(true)};
+$('#prevBtn').onclick=()=>{if(state.index>0){state.index--;state.revealed=false;draw()}};
+$('#nextBtn').onclick=()=>{if(state.index<state.deck.length-1){state.index++;state.revealed=false;draw()}};
+function rate(result){
+  const card=state.deck[state.index]; if(!card)return;
+  const k=key(card), old=state.progress[k]||{reps:0};
+  const reps=(old.reps||0)+1;
+  let days=result==='known'?[1,3,7,14,30][Math.min(reps-1,4)]:0;
+  const next=new Date(); next.setDate(next.getDate()+days);
+  state.progress[k]={last:result,reps,mastered:result==='known'&&reps>=3,next:next.toISOString().slice(0,10),updated:new Date().toISOString()};
+  save();
+  if(state.status==='all') { if(state.index<state.deck.length-1){state.index++;state.revealed=false;draw()} else {draw()} }
+  else renderDeck(true);
+}
+$('#knowBtn').onclick=()=>rate('known');
+$('#missBtn').onclick=()=>rate('missed');
+$('#resetSection').onclick=()=>{const prefix=state.level==='bct'?'bct|':`hsk${state.level}|`;Object.keys(state.progress).filter(k=>k.startsWith(prefix)).forEach(k=>delete state.progress[k]);save();renderDeck(true)};
+$('#resetAll').onclick=()=>{if(confirm('Reset all flashcard progress on this device?')){state.progress={};save();renderDeck(true)}};
+document.addEventListener('keydown',e=>{
+  if(e.key===' '){e.preventDefault(); if(!state.revealed){state.revealed=true;draw()}}
+  if(e.key==='ArrowRight') $('#nextBtn').click();
+  if(e.key==='ArrowLeft') $('#prevBtn').click();
+  if(e.key==='1'&&state.revealed) $('#missBtn').click();
+  if(e.key==='2'&&state.revealed) $('#knowBtn').click();
+});
+if('serviceWorker' in navigator && location.protocol!=='file:') navigator.serviceWorker.register('sw.js').catch(()=>{});
+load();
+</script>
+</body>
+</html>
