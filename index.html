@@ -10,7 +10,8 @@
 <title>HSK Vocabulary Flashcards</title>
 <style>
 :root{--bg:#050506;--panel:#171718;--panel2:#101011;--line:#303033;--muted:#9a9a9f;--text:#f7f7f7;--accent:#22c55e;--danger:#ef4444;--warn:#f59e0b}
-*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+*{box-sizing:border-box}
+[hidden]{display:none !important}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
 button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:pointer}
 .app{max-width:920px;margin:0 auto;padding:14px 14px 28px}
 .top{border:1px solid var(--accent);border-radius:10px;padding:12px 12px 10px}
@@ -123,7 +124,7 @@ body.light .tabs{background:#e8e8e6}body.light .tab.active{background:#fff;color
   <div class="quiz-panel">
     <div class="quiz-head">
       <div><h2>Chinese Vocabulary Quiz</h2><div class="quiz-sub">Test Hanzi ↔ meaning/pinyin across one section or all sections.</div></div>
-      <button class="btn" id="closeQuiz">Close</button>
+      <button type="button" class="btn" id="closeQuiz">Close</button>
     </div>
     <div id="quizSetup">
       <div class="quiz-settings">
@@ -132,7 +133,7 @@ body.light .tabs{background:#e8e8e6}body.light .tab.active{background:#fff;color
         <label>Questions<select id="quizCount" class="select"><option value="10">10</option><option value="20" selected>20</option><option value="50">50</option><option value="100">100</option><option value="99999">All available</option></select></label>
       </div>
       <div class="notice">For HSK, the quiz follows the selected Simplified / Traditional / Both setting. “All sections” combines HSK 1, HSK 2, HSK 3 and BCT A, while keeping duplicate vocabulary only once.</div>
-      <button class="btn primary" id="startQuiz" style="width:100%;margin-top:8px">Start quiz</button>
+      <button type="button" class="btn primary" id="startQuiz" style="width:100%;margin-top:8px">Start quiz</button>
     </div>
     <div id="quizBody" hidden></div>
   </div>
@@ -286,7 +287,7 @@ function quizQuestionText(x,dir){
 function makeQuizQuestion(x,dir,pool,i){
   const actualDir=dir==='mixed'?(Math.random()<.5?'meaning':'hanzi'):dir;
   const correct=actualDir==='meaning'?(x.meaning||'Meaning unavailable'):quizHanzi(x);
-  const candidates=[...pool].filter(y=>y!==x && (actualDir==='meaning'?y.meaning:y.simplified||y.hanzi));
+  const candidates=[...pool].filter(y=>y!==x && (actualDir==='meaning'?(y.meaning||''):(y.simplified||y.hanzi||'')));
   candidates.sort(()=>Math.random()-.5);
   const opts=[correct];
   for(const y of candidates){
@@ -297,38 +298,47 @@ function makeQuizQuestion(x,dir,pool,i){
   return {id:`q${i}`,x,dir:actualDir,opts:opts.sort(()=>Math.random()-.5),correct};
 }
 function startQuiz(){
-  const section=$('#quizSection').value==='current'?String(state.level):$('#quizSection').value;
-  const pool=quizPool(section).filter(x=>(x.meaning||x.pinyin||x.simplified||x.hanzi));
-  if(pool.length<2){alert('Not enough vocabulary available for this quiz.');return;}
-  const count=Math.min(Number($('#quizCount').value),pool.length);
-  const shuffled=[...pool].sort(()=>Math.random()-.5).slice(0,count);
-  const dir=$('#quizDirection').value;
-  quiz.questions=shuffled.map((x,i)=>makeQuizQuestion(x,dir,pool,i));
-  quiz.active=true;quiz.index=0;quiz.score=0;quiz.answered=false;
-  $('#quizSetup').hidden=true;$('#quizBody').hidden=false;renderQuiz();
+  try{
+    const rawSection=$('#quizSection').value;
+    const section=rawSection==='current'?String(state.level):rawSection;
+    const pool=quizPool(section).filter(x=>(x.meaning||x.pinyin||x.simplified||x.traditional||x.hanzi));
+    if(pool.length<2){alert('Not enough vocabulary available for this quiz.');return;}
+    const count=Math.min(Number($('#quizCount').value),pool.length);
+    const shuffled=[...pool].sort(()=>Math.random()-.5).slice(0,count);
+    const dir=$('#quizDirection').value;
+    quiz.questions=shuffled.map((x,i)=>makeQuizQuestion(x,dir,pool,i));
+    quiz.active=true;quiz.index=0;quiz.score=0;quiz.answered=false;
+    $('#quizSetup').hidden=true;
+    $('#quizBody').hidden=false;
+    renderQuiz();
+  }catch(err){
+    console.error('Quiz start failed:',err);
+    alert('Quiz could not start. Please reload the page and try again.');
+  }
 }
 function renderQuiz(){
   const q=quiz.questions[quiz.index];
   if(!q){finishQuiz();return;}
   const total=quiz.questions.length, pct=(quiz.index/total)*100;
   const display=quizQuestionText(q.x,q.dir);
-  $('#quizBody').innerHTML=`<div class="quiz-progress"><span style="width:${pct}%"></span></div><div class="quiz-sub" style="text-align:right">${quiz.index+1} / ${total} · Score ${quiz.score}</div><div class="quiz-question"><div class="quiz-direction">${display.label}</div><div class="quiz-main ${display.cls}">${display.main}</div>${display.sub?`<div class="quiz-pinyin">${display.sub}</div>`:''}</div><div class="quiz-options">${q.opts.map((o,i)=>`<button class="quiz-option" data-answer="${encodeURIComponent(o)}"><span class="letter">${String.fromCharCode(65+i)}</span>${q.dir==='hanzi'?`<span class="hanzi-opt">${o}</span>`:o}</button>`).join('')}</div><div class="quiz-feedback" id="quizFeedback"></div><div class="quiz-actions"><button class="btn" id="quizQuit">Quit</button><button class="btn primary" id="quizNext" disabled>Next</button></div>`;
-  document.querySelectorAll('.quiz-option').forEach(btn=>btn.onclick=()=>answerQuiz(decodeURIComponent(btn.dataset.answer)));
+  $('#quizBody').innerHTML=`<div class="quiz-progress"><span style="width:${pct}%"></span></div><div class="quiz-sub" style="text-align:right">${quiz.index+1} / ${total} · Score ${quiz.score}</div><div class="quiz-question"><div class="quiz-direction">${display.label}</div><div class="quiz-main ${display.cls}">${display.main}</div>${display.sub?`<div class="quiz-pinyin">${display.sub}</div>`:''}</div><div class="quiz-options">${q.opts.map((o,i)=>`<button type="button" class="quiz-option" data-idx="${i}"><span class="letter">${String.fromCharCode(65+i)}</span>${q.dir==='hanzi'?`<span class="hanzi-opt">${o}</span>`:o}</button>`).join('')}</div><div class="quiz-feedback" id="quizFeedback"></div><div class="quiz-actions"><button type="button" class="btn" id="quizQuit">Quit</button><button type="button" class="btn primary" id="quizNext" disabled>Next</button></div>`;
+  document.querySelectorAll('.quiz-option').forEach(btn=>btn.onclick=()=>answerQuiz(q.opts[Number(btn.dataset.idx)]));
   $('#quizQuit').onclick=closeQuiz;
   $('#quizNext').onclick=()=>{quiz.index++;quiz.answered=false;renderQuiz()};
 }
 function answerQuiz(answer){
-  if(quiz.answered)return; quiz.answered=true;
+  if(quiz.answered)return;
+  quiz.answered=true;
   const q=quiz.questions[quiz.index], correct=answer===q.correct;
   if(correct) quiz.score++;
-  document.querySelectorAll('.quiz-option').forEach(btn=>{const v=decodeURIComponent(btn.dataset.answer);if(v===q.correct)btn.classList.add('correct');if(v===answer&&!correct)btn.classList.add('wrong');btn.disabled=true});
+  document.querySelectorAll('.quiz-option').forEach(btn=>{const v=q.opts[Number(btn.dataset.idx)];if(v===q.correct)btn.classList.add('correct');if(v===answer&&!correct)btn.classList.add('wrong');btn.disabled=true});
   $('#quizFeedback').textContent=correct?'Correct!':'Not quite. Correct answer: '+q.correct;
   $('#quizNext').disabled=false;
   $('#quizNext').textContent=quiz.index===quiz.questions.length-1?'See result':'Next';
 }
 function finishQuiz(){
-  const total=quiz.questions.length, pct=Math.round((quiz.score/total)*100);
-  $('#quizBody').innerHTML=`<div class="quiz-result"><div class="quiz-sub">Quiz complete</div><div class="quiz-score">${pct}%</div><div>${quiz.score} / ${total} correct</div><div class="quiz-list">Review the cards you missed in the flashcard mode using “Missed last time”.</div><button class="btn primary" id="restartQuiz" style="margin-top:18px">Try again</button></div>`;
+  const total=quiz.questions.length, pct=total?Math.round((quiz.score/total)*100):0;
+  $('#quizBody').innerHTML=`<div class="quiz-result"><div class="quiz-sub">Quiz complete</div><div class="quiz-score">${pct}%</div><div>${quiz.score} / ${total} correct</div><div class="quiz-list">Review the cards you missed in the flashcard mode using “Missed last time”.</div><button type="button" class="btn primary" id="restartQuiz" style="margin-top:18px">Try again</button></div>`;
   $('#restartQuiz').onclick=()=>{$('#quizSetup').hidden=false;$('#quizBody').hidden=true};
 }
 function closeQuiz(){quiz.active=false;$('#quizModal').hidden=true;$('#quizSetup').hidden=false;$('#quizBody').hidden=true;}
