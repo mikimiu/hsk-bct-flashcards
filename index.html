@@ -35,7 +35,72 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
 .spinner{width:18px;height:18px;border:2px solid #444;border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
 @media(max-width:600px){.app{padding:9px 9px 20px}.top{padding:11px}.tabs{gap:3px}.tab{font-size:11px;padding:8px 3px}.controls{grid-template-columns:1fr 1fr}.controls .btn{grid-column:1/-1}.stats{gap:10px}.card{min-height:300px;padding:18px}.hanzi{font-size:50px}.hanzi.both{font-size:38px}.actions{flex-wrap:wrap}.rating{order:3;flex-basis:100%}.nav{flex:1}}
 
-body.light{--bg:#f5f5f4;--panel:#ffffff;--panel2:#f0f0ef;--line:#d5d5d2;--muted:#686868;--text:#171717;--accent:#16a34a;--danger:#dc2626;--warn:#d97706}
+body.light{
+  --bg:#f5f5f4;
+  --panel:#ffffff;
+  --panel2:#f0f0ef;
+  --line:#d5d5d2;
+  --muted:#555;
+  --text:#171717;
+  --accent:#16a34a;
+  --danger:#dc2626;
+  --warn:#d97706;
+}
+
+/* Light mode readability */
+body.light .tabs{
+  background:#e3e3e0;
+}
+
+body.light .tab{
+  color:#555;
+}
+
+body.light .tab.active{
+  background:#fff;
+  color:#111;
+  font-weight:700;
+  box-shadow:0 1px 3px rgba(0,0,0,.12);
+}
+
+body.light .stats{
+  color:#555;
+}
+
+body.light .stats b{
+  color:#171717;
+}
+
+body.light .segment{
+  background:#e8e8e5;
+  border-color:#c8c8c4;
+}
+
+body.light .segment button{
+  color:#555;
+}
+
+body.light .segment button.active{
+  background:#fff;
+  color:#111;
+  font-weight:700;
+  box-shadow:0 1px 3px rgba(0,0,0,.12);
+}
+
+body.light .card .prompt{
+  color:#666;
+}
+
+body.light .meta{
+  color:#555;
+}
+
+body.light .quiz-direction,
+body.light .quiz-pinyin,
+body.light .quiz-feedback,
+body.light .quiz-list{
+  color:#555;
+}
 body.light .tabs{background:#e8e8e6}body.light .tab.active{background:#fff;color:#111}body.light .segment{background:#f0f0ef;border-color:#d8d8d5}body.light .segment button.active{background:#fff;color:#111}body.light .btn,body.light .select{background:#fff;color:#171717}body.light .card{border-color:#ddd;background:#fff}body.light .meaning{color:#333}body.light .bar{background:#ddd}body.light .top{background:transparent}
 .header-actions{display:flex;gap:7px;align-items:center}
 .icon-btn{min-width:38px;padding:8px 10px}
