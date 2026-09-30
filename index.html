@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#0b0b0c">
+<meta name="theme-color" content="#0b0b0c" id="themeColor">
 <meta name="description" content="Personal HSK 1–3 and BCT A Chinese vocabulary flashcards">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
@@ -33,6 +33,20 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
 .notice{font-size:11px;color:#aaa;padding:8px 2px;line-height:1.45}.notice strong{color:#eee}.notice a{color:#9ae6b4}
 .spinner{width:18px;height:18px;border:2px solid #444;border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
 @media(max-width:600px){.app{padding:9px 9px 20px}.top{padding:11px}.tabs{gap:3px}.tab{font-size:11px;padding:8px 3px}.controls{grid-template-columns:1fr 1fr}.controls .btn{grid-column:1/-1}.stats{gap:10px}.card{min-height:300px;padding:18px}.hanzi{font-size:50px}.hanzi.both{font-size:38px}.actions{flex-wrap:wrap}.rating{order:3;flex-basis:100%}.nav{flex:1}}
+
+body.light{--bg:#f5f5f4;--panel:#ffffff;--panel2:#f0f0ef;--line:#d5d5d2;--muted:#686868;--text:#171717;--accent:#16a34a;--danger:#dc2626;--warn:#d97706}
+body.light .tabs{background:#e8e8e6}body.light .tab.active{background:#fff;color:#111}body.light .segment{background:#f0f0ef;border-color:#d8d8d5}body.light .segment button.active{background:#fff;color:#111}body.light .btn,body.light .select{background:#fff;color:#171717}body.light .card{border-color:#ddd;background:#fff}body.light .meaning{color:#333}body.light .bar{background:#ddd}body.light .top{background:transparent}
+.header-actions{display:flex;gap:7px;align-items:center}
+.icon-btn{min-width:38px;padding:8px 10px}
+.quiz-modal{position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:20;display:flex;align-items:center;justify-content:center;padding:14px}
+.quiz-panel{width:min(760px,100%);max-height:92vh;overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 20px 60px rgba(0,0,0,.35)}
+.quiz-head{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}.quiz-head h2{margin:0;font-size:18px}.quiz-sub{font-size:11px;color:var(--muted);margin-top:4px}
+.quiz-settings{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin:14px 0}.quiz-settings label{font-size:10px;color:var(--muted)}.quiz-settings select{margin-top:5px}
+.quiz-progress{height:5px;background:var(--panel2);border-radius:99px;overflow:hidden;margin:12px 0}.quiz-progress span{display:block;height:100%;background:var(--accent);width:0}
+.quiz-question{text-align:center;padding:20px 8px 10px}.quiz-direction{font-size:11px;color:var(--muted);margin-bottom:12px}.quiz-main{font-size:46px;font-weight:800;line-height:1.2}.quiz-main.meaning{font-size:24px}.quiz-pinyin{font-size:17px;color:var(--muted);margin-top:8px}
+.quiz-options{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-top:12px}.quiz-option{text-align:left;border:1px solid var(--line);border-radius:11px;padding:13px;background:var(--panel2);min-height:58px}.quiz-option:hover{border-color:#777}.quiz-option.correct{border-color:var(--accent);background:rgba(34,197,94,.12)}.quiz-option.wrong{border-color:var(--danger);background:rgba(239,68,68,.10)}.quiz-option .letter{font-size:10px;color:var(--muted);display:block;margin-bottom:4px}.quiz-option .hanzi-opt{font-size:28px;font-weight:700}.quiz-feedback{text-align:center;font-size:12px;color:var(--muted);min-height:28px;margin-top:12px}.quiz-actions{display:flex;justify-content:space-between;gap:8px;margin-top:10px}.quiz-result{text-align:center;padding:30px 10px}.quiz-score{font-size:48px;font-weight:800;color:var(--accent)}.quiz-list{font-size:12px;color:var(--muted);line-height:1.7;margin-top:12px}
+@media(max-width:600px){.quiz-settings{grid-template-columns:1fr}.quiz-options{grid-template-columns:1fr}.quiz-main{font-size:40px}.quiz-main.meaning{font-size:21px}}
+
 </style>
 </head>
 <body>
@@ -40,7 +54,7 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
   <section class="top">
     <div class="brand">
       <div><h1>HSK Vocabulary Flashcards</h1><div class="sub">Personal daily Chinese review</div></div>
-      <button class="btn" id="shuffleBtn">⤨ Shuffle</button>
+      <div class="header-actions"><button class="btn icon-btn" id="themeBtn" title="Toggle theme">☀︎</button><button class="btn" id="quizBtn">Quiz</button><button class="btn" id="shuffleBtn">⤨ Shuffle</button></div>
     </div>
     <div class="tabs" id="tabs">
       <button class="tab active" data-level="1">HSK 1</button>
@@ -104,6 +118,25 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
     <div class="notice" id="notice"></div>
   </section>
 </div>
+
+<div class="quiz-modal" id="quizModal" hidden>
+  <div class="quiz-panel">
+    <div class="quiz-head">
+      <div><h2>Chinese Vocabulary Quiz</h2><div class="quiz-sub">Test Hanzi ↔ meaning/pinyin across one section or all sections.</div></div>
+      <button class="btn" id="closeQuiz">Close</button>
+    </div>
+    <div id="quizSetup">
+      <div class="quiz-settings">
+        <label>Section<select id="quizSection" class="select"><option value="current">Current section</option><option value="all">All sections</option><option value="1">HSK 1</option><option value="2">HSK 2</option><option value="3">HSK 3</option><option value="bct">BCT A</option></select></label>
+        <label>Direction<select id="quizDirection" class="select"><option value="mixed">Mixed</option><option value="meaning">Hanzi → Meaning / Pinyin</option><option value="hanzi">Meaning / Pinyin → Hanzi</option></select></label>
+        <label>Questions<select id="quizCount" class="select"><option value="10">10</option><option value="20" selected>20</option><option value="50">50</option><option value="100">100</option><option value="99999">All available</option></select></label>
+      </div>
+      <div class="notice">For HSK, the quiz follows the selected Simplified / Traditional / Both setting. “All sections” combines HSK 1, HSK 2, HSK 3 and BCT A, while keeping duplicate vocabulary only once.</div>
+      <button class="btn primary" id="startQuiz" style="width:100%;margin-top:8px">Start quiz</button>
+    </div>
+    <div id="quizBody" hidden></div>
+  </div>
+</div>
 <script>
 const HSK_REMOTE='https://raw.githubusercontent.com/jelleverheyen/hsk-vocabulary/main/complete.min.json';
 const state={
@@ -112,6 +145,8 @@ const state={
   enriched:JSON.parse(localStorage.getItem('hskFlashEnriched')||'null')
 };
 const $=s=>document.querySelector(s);
+const quiz={active:false,questions:[],index:0,score:0,answered:false};
+
 const save=()=>localStorage.setItem('hskFlashProgress',JSON.stringify(state.progress));
 function key(card){return card.section+'|'+card.id}
 function today(){return new Date().toISOString().slice(0,10)}
@@ -213,6 +248,93 @@ function draw(){
   $('#rating').hidden=!state.revealed;
   const rev=$('#revealBtn'); if(rev) rev.onclick=()=>{state.revealed=true;draw()};
 }
+
+function allVocabulary(){
+  const h=state.hsk.map(enrich);
+  const b=state.bct;
+  const seen=new Set(), out=[];
+  for(const x of [...h,...b]){
+    const simplified=x.simplified||x.hanzi||'';
+    const traditional=x.traditional||x.hanzi||simplified;
+    const pinyin=x.pinyin||'';
+    const meaning=x.meaning||'';
+    const sig=[simplified,traditional,pinyin,meaning].join('|').toLowerCase();
+    if(!sig||seen.has(sig)) continue;
+    seen.add(sig); out.push({...x,quizSection:x.section});
+  }
+  return out;
+}
+function quizPool(section){
+  let list=[];
+  if(section==='all') list=allVocabulary();
+  else if(section==='bct') list=state.bct.map(x=>({...x,quizSection:'bct'}));
+  else list=state.hsk.filter(x=>String(x.level)===String(section)).map(enrich).map(x=>({...x,quizSection:`hsk${section}`}));
+  // Apply current HSK script preference.
+  if(section!=='bct' && state.script==='simplified') list=list.filter(x=>x.simplified);
+  return list;
+}
+function quizHanzi(x){
+  if(x.quizSection==='bct') return x.hanzi;
+  if(state.script==='traditional') return x.traditional||x.simplified;
+  if(state.script==='simplified') return x.simplified;
+  return `${x.simplified}${x.traditional&&x.traditional!==x.simplified?' / '+x.traditional:''}`;
+}
+function quizQuestionText(x,dir){
+  if(dir==='meaning') return {main:quizHanzi(x), cls:'', label:'What does this Hanzi mean?', sub:''};
+  return {main:x.meaning||'Meaning unavailable',cls:'meaning',label:'Which Hanzi matches this meaning?',sub:x.pinyin||''};
+}
+function makeQuizQuestion(x,dir,pool,i){
+  const actualDir=dir==='mixed'?(Math.random()<.5?'meaning':'hanzi'):dir;
+  const correct=actualDir==='meaning'?(x.meaning||'Meaning unavailable'):quizHanzi(x);
+  const candidates=[...pool].filter(y=>y!==x && (actualDir==='meaning'?y.meaning:y.simplified||y.hanzi));
+  candidates.sort(()=>Math.random()-.5);
+  const opts=[correct];
+  for(const y of candidates){
+    const v=actualDir==='meaning'?(y.meaning||'Meaning unavailable'):quizHanzi(y);
+    if(v && !opts.includes(v)) opts.push(v);
+    if(opts.length===4) break;
+  }
+  return {id:`q${i}`,x,dir:actualDir,opts:opts.sort(()=>Math.random()-.5),correct};
+}
+function startQuiz(){
+  const section=$('#quizSection').value==='current'?String(state.level):$('#quizSection').value;
+  const pool=quizPool(section).filter(x=>(x.meaning||x.pinyin||x.simplified||x.hanzi));
+  if(pool.length<2){alert('Not enough vocabulary available for this quiz.');return;}
+  const count=Math.min(Number($('#quizCount').value),pool.length);
+  const shuffled=[...pool].sort(()=>Math.random()-.5).slice(0,count);
+  const dir=$('#quizDirection').value;
+  quiz.questions=shuffled.map((x,i)=>makeQuizQuestion(x,dir,pool,i));
+  quiz.active=true;quiz.index=0;quiz.score=0;quiz.answered=false;
+  $('#quizSetup').hidden=true;$('#quizBody').hidden=false;renderQuiz();
+}
+function renderQuiz(){
+  const q=quiz.questions[quiz.index];
+  if(!q){finishQuiz();return;}
+  const total=quiz.questions.length, pct=(quiz.index/total)*100;
+  const display=quizQuestionText(q.x,q.dir);
+  $('#quizBody').innerHTML=`<div class="quiz-progress"><span style="width:${pct}%"></span></div><div class="quiz-sub" style="text-align:right">${quiz.index+1} / ${total} · Score ${quiz.score}</div><div class="quiz-question"><div class="quiz-direction">${display.label}</div><div class="quiz-main ${display.cls}">${display.main}</div>${display.sub?`<div class="quiz-pinyin">${display.sub}</div>`:''}</div><div class="quiz-options">${q.opts.map((o,i)=>`<button class="quiz-option" data-answer="${encodeURIComponent(o)}"><span class="letter">${String.fromCharCode(65+i)}</span>${q.dir==='hanzi'?`<span class="hanzi-opt">${o}</span>`:o}</button>`).join('')}</div><div class="quiz-feedback" id="quizFeedback"></div><div class="quiz-actions"><button class="btn" id="quizQuit">Quit</button><button class="btn primary" id="quizNext" disabled>Next</button></div>`;
+  document.querySelectorAll('.quiz-option').forEach(btn=>btn.onclick=()=>answerQuiz(decodeURIComponent(btn.dataset.answer)));
+  $('#quizQuit').onclick=closeQuiz;
+  $('#quizNext').onclick=()=>{quiz.index++;quiz.answered=false;renderQuiz()};
+}
+function answerQuiz(answer){
+  if(quiz.answered)return; quiz.answered=true;
+  const q=quiz.questions[quiz.index], correct=answer===q.correct;
+  if(correct) quiz.score++;
+  document.querySelectorAll('.quiz-option').forEach(btn=>{const v=decodeURIComponent(btn.dataset.answer);if(v===q.correct)btn.classList.add('correct');if(v===answer&&!correct)btn.classList.add('wrong');btn.disabled=true});
+  $('#quizFeedback').textContent=correct?'Correct!':'Not quite. Correct answer: '+q.correct;
+  $('#quizNext').disabled=false;
+  $('#quizNext').textContent=quiz.index===quiz.questions.length-1?'See result':'Next';
+}
+function finishQuiz(){
+  const total=quiz.questions.length, pct=Math.round((quiz.score/total)*100);
+  $('#quizBody').innerHTML=`<div class="quiz-result"><div class="quiz-sub">Quiz complete</div><div class="quiz-score">${pct}%</div><div>${quiz.score} / ${total} correct</div><div class="quiz-list">Review the cards you missed in the flashcard mode using “Missed last time”.</div><button class="btn primary" id="restartQuiz" style="margin-top:18px">Try again</button></div>`;
+  $('#restartQuiz').onclick=()=>{$('#quizSetup').hidden=false;$('#quizBody').hidden=true};
+}
+function closeQuiz(){quiz.active=false;$('#quizModal').hidden=true;$('#quizSetup').hidden=false;$('#quizBody').hidden=true;}
+$('#quizBtn').onclick=()=>{$('#quizModal').hidden=false;$('#quizSection').value='current';$('#quizSetup').hidden=false;$('#quizBody').hidden=true};
+$('#closeQuiz').onclick=closeQuiz;$('#startQuiz').onclick=startQuiz;
+
 function setLevel(v){
   state.level=v;state.revealed=false;state.shuffle=false;
   document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.level==v));
@@ -248,6 +370,12 @@ document.addEventListener('keydown',e=>{
   if(e.key==='1'&&state.revealed) $('#missBtn').click();
   if(e.key==='2'&&state.revealed) $('#knowBtn').click();
 });
+
+const savedTheme=localStorage.getItem('hskTheme')||'dark';
+function applyTheme(t){document.body.classList.toggle('light',t==='light');$('#themeBtn').textContent=t==='light'?'☾':'☀︎';$('#themeColor').setAttribute('content',t==='light'?'#f5f5f4':'#0b0b0c');localStorage.setItem('hskTheme',t)}
+$('#themeBtn').onclick=()=>applyTheme(document.body.classList.contains('light')?'dark':'light');
+applyTheme(savedTheme);
+
 if('serviceWorker' in navigator && location.protocol!=='file:') navigator.serviceWorker.register('sw.js').catch(()=>{});
 load();
 </script>
