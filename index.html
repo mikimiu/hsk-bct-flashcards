@@ -16,7 +16,7 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
 .app{max-width:920px;margin:0 auto;padding:14px 14px 28px}
 .top{border:1px solid var(--accent);border-radius:10px;padding:12px 12px 10px}
 .brand{display:flex;align-items:center;justify-content:space-between;gap:12px}.brand h1{font-size:18px;margin:0}.sub{font-size:11px;color:var(--muted);margin-top:3px}
-.tabs{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;background:#0c0c0d;padding:4px;border-radius:999px;margin-top:12px}
+.tabs{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;background:#0c0c0d;padding:4px;border-radius:999px;margin-top:12px}
 .tab{padding:9px 7px;border-radius:999px;color:#aaa;font-size:12px}.tab.active{background:#1c1c1e;color:#fff;font-weight:700}
 .toolbar{display:flex;gap:8px;align-items:center;justify-content:space-between;margin:12px 0 8px;flex-wrap:wrap}
 .stats{display:flex;gap:16px;font-size:11px;color:#aaa}.stats b{color:#fff}
@@ -35,94 +35,8 @@ button,select{font:inherit}button{color:inherit;background:none;border:0;cursor:
 .spinner{width:18px;height:18px;border:2px solid #444;border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}
 @media(max-width:600px){.app{padding:9px 9px 20px}.top{padding:11px}.tabs{gap:3px}.tab{font-size:11px;padding:8px 3px}.controls{grid-template-columns:1fr 1fr}.controls .btn{grid-column:1/-1}.stats{gap:10px}.card{min-height:300px;padding:18px}.hanzi{font-size:50px}.hanzi.both{font-size:38px}.actions{flex-wrap:wrap}.rating{order:3;flex-basis:100%}.nav{flex:1}}
 
-body.light{
-  --bg:#f5f5f4;
-  --panel:#ffffff;
-  --panel2:#f0f0ef;
-  --line:#d5d5d2;
-  --muted:#555;
-  --text:#171717;
-  --accent:#16a34a;
-  --danger:#dc2626;
-  --warn:#d97706;
-}
-
-/* Light mode readability */
-body.light .tabs{
-  background:#e3e3e0;
-}
-
-body.light .tab{
-  color:#555;
-}
-
-body.light .tab.active{
-  background:#fff;
-  color:#111;
-  font-weight:700;
-  box-shadow:0 1px 3px rgba(0,0,0,.12);
-}
-
-body.light .stats{
-  color:#555;
-}
-
-body.light .stats b{
-  color:#171717;
-}
-
-body.light .segment{
-  background:#e8e8e5;
-  border-color:#c8c8c4;
-}
-
-body.light .segment button{
-  color:#555;
-}
-
-body.light .segment button.active{
-  background:#fff;
-  color:#111;
-  font-weight:700;
-  box-shadow:0 1px 3px rgba(0,0,0,.12);
-}
-
-body.light .card .prompt{
-  color:#666;
-}
-
-body.light .meta{
-  color:#555;
-}
-
-body.light .quiz-direction,
-body.light .quiz-pinyin,
-body.light .quiz-feedback,
-body.light .quiz-list{
-  color:#555;
-}
-  
-body.light .tabs{
-  background:#e2e2df;
-}
-
-body.light .tab.active{
-  background:#d0d0cc;
-  color:#111;
-  font-weight:700;
-}
-
-body.light .segment{
-  background:#e8e8e5;
-  border-color:#c8c8c4;
-}
-
-body.light .segment button.active{
-  background:#d0d0cc;
-  color:#111;
-  font-weight:700;
-}
-body.light .btn,body.light .select{background:#fff;color:#171717}body.light .card{border-color:#ddd;background:#fff}body.light .meaning{color:#333}body.light .bar{background:#ddd}body.light .top{background:transparent}
+body.light{--bg:#f5f5f4;--panel:#ffffff;--panel2:#f0f0ef;--line:#d5d5d2;--muted:#686868;--text:#171717;--accent:#16a34a;--danger:#dc2626;--warn:#d97706}
+body.light .tabs{background:#e8e8e6}body.light .tab.active{background:#fff;color:#111}body.light .segment{background:#f0f0ef;border-color:#d8d8d5}body.light .segment button.active{background:#fff;color:#111}body.light .btn,body.light .select{background:#fff;color:#171717}body.light .card{border-color:#ddd;background:#fff}body.light .meaning{color:#333}body.light .bar{background:#ddd}body.light .top{background:transparent}
 .header-actions{display:flex;gap:7px;align-items:center}
 .icon-btn{min-width:38px;padding:8px 10px}
 .quiz-modal{position:fixed;inset:0;background:rgba(0,0,0,.72);z-index:20;display:flex;align-items:center;justify-content:center;padding:14px}
@@ -140,7 +54,7 @@ body.light .btn,body.light .select{background:#fff;color:#171717}body.light .car
 <div class="app">
   <section class="top">
     <div class="brand">
-      <div><h1>HSK Vocabulary Flashcards</h1><div class="sub">Personal daily Chinese review</div></div>
+      <div><h1>Chinese vocabulary flashcards</h1><div class="sub">HSK 1–3 · BCT A · CS & IT</div></div>
       <div class="header-actions"><button class="btn icon-btn" id="themeBtn" title="Toggle theme">☀︎</button><button class="btn" id="quizBtn">Quiz</button><button class="btn" id="shuffleBtn">⤨ Shuffle</button></div>
     </div>
     <div class="tabs" id="tabs">
@@ -148,6 +62,7 @@ body.light .btn,body.light .select{background:#fff;color:#171717}body.light .car
       <button class="tab" data-level="2">HSK 2</button>
       <button class="tab" data-level="3">HSK 3</button>
       <button class="tab" data-level="bct">BCT A</button>
+      <button class="tab" data-level="csit">CS & IT</button>
     </div>
 
     <div class="toolbar">
@@ -214,11 +129,11 @@ body.light .btn,body.light .select{background:#fff;color:#171717}body.light .car
     </div>
     <div id="quizSetup">
       <div class="quiz-settings">
-        <label>Section<select id="quizSection" class="select"><option value="current">Current section</option><option value="all">All sections</option><option value="1">HSK 1</option><option value="2">HSK 2</option><option value="3">HSK 3</option><option value="bct">BCT A</option></select></label>
+        <label>Section<select id="quizSection" class="select"><option value="current">Current section</option><option value="all">All sections</option><option value="1">HSK 1</option><option value="2">HSK 2</option><option value="3">HSK 3</option><option value="bct">BCT A</option><option value="csit">CS & IT</option></select></label>
         <label>Direction<select id="quizDirection" class="select"><option value="mixed">Mixed</option><option value="meaning">Hanzi → Meaning / Pinyin</option><option value="hanzi">Meaning / Pinyin → Hanzi</option></select></label>
         <label>Questions<select id="quizCount" class="select"><option value="10">10</option><option value="20" selected>20</option><option value="50">50</option><option value="100">100</option><option value="99999">All available</option></select></label>
       </div>
-      <div class="notice">For HSK, the quiz follows the selected Simplified / Traditional / Both setting. “All sections” combines HSK 1, HSK 2, HSK 3 and BCT A, while keeping duplicate vocabulary only once.</div>
+      <div class="notice">For HSK, the quiz follows the selected Simplified / Traditional / Both setting. “All sections” combines HSK 1, HSK 2, HSK 3, BCT A, and CS & IT, while keeping duplicate vocabulary only once.</div>
       <button type="button" class="btn primary" id="startQuiz" style="width:100%;margin-top:8px">Start quiz</button>
     </div>
     <div id="quizBody" hidden></div>
@@ -228,7 +143,7 @@ body.light .btn,body.light .select{background:#fff;color:#171717}body.light .car
 const HSK_REMOTE='https://raw.githubusercontent.com/jelleverheyen/hsk-vocabulary/main/complete.min.json';
 const state={
   level:1, script:'both', status:'all', limit:30, shuffle:false, index:0, revealed:false,
-  hsk:[], bct:[], deck:[], progress:JSON.parse(localStorage.getItem('hskFlashProgress')||'{}'),
+  hsk:[], bct:[], csit:[], deck:[], progress:JSON.parse(localStorage.getItem('hskFlashProgress')||'{}'),
   enriched:JSON.parse(localStorage.getItem('hskFlashEnriched')||'null')
 };
 const $=s=>document.querySelector(s);
@@ -260,9 +175,10 @@ function parseRemote(raw){
 }
 async function load(){
   try{
-    const [h,b]=await Promise.all([fetch('data/hsk_source.json').then(r=>r.json()),fetch('data/bct_source.json').then(r=>r.json())]);
+    const [h,b,c]=await Promise.all([fetch('data/hsk_source.json').then(r=>r.json()),fetch('data/bct_source.json').then(r=>r.json()),fetch('data/cs_it.json').then(r=>r.json())]);
     state.hsk=h.map((x,i)=>({...x,section:'hsk'+x.level,id:`h${x.level}-${i}`}));
     state.bct=b.map((x,i)=>({...x,section:'bct',id:`b-${i}`}));
+    state.csit=c.map((x,i)=>({...x,section:'csit',id:x.id||`cs-${i}`}));
     if(!state.enriched){
       const cached=localStorage.getItem('hskFlashEnriched');
       if(cached) state.enriched=JSON.parse(cached);
@@ -273,6 +189,7 @@ async function load(){
       state.enriched=parseRemote(raw);
       localStorage.setItem('hskFlashEnriched',JSON.stringify(state.enriched));
     }
+    $('#notice').innerHTML='<strong>Ready.</strong> HSK 1–3 uses your vocabulary source plus local enriched meanings; BCT A uses your uploaded PDF; CS & IT is a separate curated learning section.';
     renderDeck(true);
   }catch(e){
     console.error(e);
@@ -287,6 +204,7 @@ function enrich(x){
 function currentPool(){
   let list;
   if(state.level==='bct') list=state.bct;
+  else if(state.level==='csit') list=state.csit;
   else list=state.hsk.filter(x=>String(x.level)===String(state.level)).map(enrich);
   if(state.status==='due') list=list.filter(due);
   if(state.status==='unseen') list=list.filter(x=>!state.progress[key(x)]);
@@ -317,10 +235,10 @@ function draw(){
     $('#card').innerHTML='<div class="empty"><b>No cards match this filter.</b><br>Try another filter or reset progress.</div>';
     rating.hidden=true; return;
   }
-  const answer=state.level==='bct'?card:{...card,...enrich(card)};
+  const answer=(state.level==='bct'||state.level==='csit')?card:{...card,...enrich(card)};
   let front='';
-  if(state.level==='bct'){
-    front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi">${answer.hanzi}</div>`;
+  if(state.level==='bct'||state.level==='csit'){
+    front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi">${answer.simplified||answer.hanzi}</div>`;
   }else{
     const s=state.script;
     if(s==='simplified') front=`<div class="prompt">What does this Simplified Hanzi mean?</div><div class="hanzi">${answer.simplified}</div>`;
@@ -329,7 +247,7 @@ function draw(){
   }
   let body=front;
   if(state.revealed){
-    body+=`<div class="answer"><div class="pinyin">${answer.pinyin||'Pinyin unavailable'}</div><div class="meaning">${answer.meaning||'Meaning unavailable'}</div><div class="meta">${state.level==='bct'?'BCT A':'HSK '+answer.level}</div></div>`;
+    body+=`<div class="answer"><div class="pinyin">${answer.pinyin||'Pinyin unavailable'}</div><div class="meaning">${answer.meaning||'Meaning unavailable'}</div><div class="meta">${state.level==='bct'?'BCT A':state.level==='csit'?'CS & IT · '+(answer.category||''):'HSK '+answer.level}</div></div>`;
   }else body+='<button class="reveal" id="revealBtn">Reveal answer</button>';
   $('#card').innerHTML=body;
   $('#rating').hidden=!state.revealed;
@@ -339,8 +257,9 @@ function draw(){
 function allVocabulary(){
   const h=state.hsk.map(enrich);
   const b=state.bct;
+  const c=state.csit;
   const seen=new Set(), out=[];
-  for(const x of [...h,...b]){
+  for(const x of [...h,...b,...c]){
     const simplified=x.simplified||x.hanzi||'';
     const traditional=x.traditional||x.hanzi||simplified;
     const pinyin=x.pinyin||'';
@@ -355,13 +274,15 @@ function quizPool(section){
   let list=[];
   if(section==='all') list=allVocabulary();
   else if(section==='bct') list=state.bct.map(x=>({...x,quizSection:'bct'}));
+  else if(section==='csit') list=state.csit.map(x=>({...x,quizSection:'csit'}));
   else list=state.hsk.filter(x=>String(x.level)===String(section)).map(enrich).map(x=>({...x,quizSection:`hsk${section}`}));
   // Apply current HSK script preference.
-  if(section!=='bct' && state.script==='simplified') list=list.filter(x=>x.simplified);
+  if(!['bct','csit'].includes(section) && state.script==='simplified') list=list.filter(x=>x.simplified);
   return list;
 }
 function quizHanzi(x){
   if(x.quizSection==='bct') return x.hanzi;
+  if(x.quizSection==='csit') return state.script==='traditional'?(x.traditional||x.simplified):state.script==='simplified'?x.simplified:`${x.simplified}${x.traditional&&x.traditional!==x.simplified?' / '+x.traditional:''}`;
   if(state.script==='traditional') return x.traditional||x.simplified;
   if(state.script==='simplified') return x.simplified;
   return `${x.simplified}${x.traditional&&x.traditional!==x.simplified?' / '+x.traditional:''}`;
@@ -457,7 +378,7 @@ function rate(result){
 }
 $('#knowBtn').onclick=()=>rate('known');
 $('#missBtn').onclick=()=>rate('missed');
-$('#resetSection').onclick=()=>{const prefix=state.level==='bct'?'bct|':`hsk${state.level}|`;Object.keys(state.progress).filter(k=>k.startsWith(prefix)).forEach(k=>delete state.progress[k]);save();renderDeck(true)};
+$('#resetSection').onclick=()=>{const prefix=state.level==='bct'?'bct|':state.level==='csit'?'csit|':`hsk${state.level}|`;Object.keys(state.progress).filter(k=>k.startsWith(prefix)).forEach(k=>delete state.progress[k]);save();renderDeck(true)};
 $('#resetAll').onclick=()=>{if(confirm('Reset all flashcard progress on this device?')){state.progress={};save();renderDeck(true)}};
 document.addEventListener('keydown',e=>{
   if(e.key===' '){e.preventDefault(); if(!state.revealed){state.revealed=true;draw()}}
