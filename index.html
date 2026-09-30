@@ -254,7 +254,6 @@ async function load(){
       state.enriched=parseRemote(raw);
       localStorage.setItem('hskFlashEnriched',JSON.stringify(state.enriched));
     }
-    $('#notice').innerHTML='<strong>Ready.</strong> HSK 1–3 uses your vocabulary source plus local enriched meanings; BCT A uses your uploaded PDF; CS & IT is a separate curated learning section.';
     renderDeck(true);
   }catch(e){
     console.error(e);
