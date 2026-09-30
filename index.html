@@ -204,7 +204,7 @@ function draw(){
     const s=state.script;
     if(s==='simplified') front=`<div class="prompt">What does this Simplified Hanzi mean?</div><div class="hanzi">${answer.simplified}</div>`;
     else if(s==='traditional') front=`<div class="prompt">What does this Traditional Hanzi mean?</div><div class="hanzi">${answer.traditional}</div>`;
-    else front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi both"><div>简 ${answer.simplified}</div><small>繁 ${answer.traditional}</small></div>`;
+    else front=`<div class="prompt">What does this Hanzi mean?</div><div class="hanzi both"><div>${answer.simplified}</div><small>${answer.traditional}</small></div>`;
   }
   let body=front;
   if(state.revealed){
